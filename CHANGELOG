@@ -1,0 +1,22 @@
+v1.4 (June 2015)
+	Added tokenised versions of Chinese, Japanese, Thai and Vietnamese (created by Armin Hoenen)
+
+v1.3 (May 2015)
+	Fixed empty lines in Swedish (misc XML tag <sparr> was causing the problem)
+
+v1.2 (September 2014)
+	Fixed book/chapter/verse IDs in Thai
+	Fixed verse IDs in Shuar
+
+v1.1 (July 2014)
+	Fixed missing/merged verses in Italian
+	Fixed missing last character for every line in Thai
+	Fixed missing last character for every line in Latin	
+	Standardized character encoding to utf-8 for most files
+	Found a new source for Croatian (fixed character encoding issues)
+	Found a new source for Serbian (fixed character encoding issues) and fixed missing first verses in John (1,2 and 3)
+	Fixed quotes in Finish
+	Fixed spurious HTML tags in Korean
+	
+v1.0 (September 2013)
+	Initial release
