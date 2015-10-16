@@ -1,3 +1,2135 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f9bcddfbafa0017f125e4a629d1a2e856b5211b500a40562d207d3d715ad658
-size 124448
+<?xml version="1.0" ?>
+<cesDoc version="4">
+	<cesHeader version="2">
+		<fileDesc>
+			<titleStmt>
+				<h.title>
+					Bible(GLA)
+				</h.title>
+				<respStmt>
+					<respType>
+						Constructed in accordance to CES standards.
+					</respType>
+					<respName>
+						Christos Christodoulopoulos
+					</respName>
+				</respStmt>
+			</titleStmt>
+			<extent>
+				<wordCount>
+					15526
+				</wordCount>
+				<byteCount units="bytes">
+					111136
+				</byteCount>
+			</extent>
+			<publicationStmt>
+				<distributor>
+					Bible Database
+				</distributor>
+				<eAddress>
+					http://bibledatabase.com
+				</eAddress>
+				<availability>
+					free
+				</availability>
+			</publicationStmt>
+			<sourceDesc/>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				This is a part of multi-lingual corpus of the bible.
+			</projectDesc>
+			<editorialDesc>
+				<conformance level="1">
+					Corpus Encoding Standard, Version 2.0
+				</conformance>
+				<correction method="silent" status="medium"/>
+				<segmentation>
+					Marked up to the level of chapter and verse.
+				</segmentation>
+			</editorialDesc>
+			<tagsDecl/>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="gd" iso639="gla">
+					Gaelic
+				</language>
+			</langUsage>
+			<wsdUsage>
+				<writingSystem id="utf-8"/>
+			</wsdUsage>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body id="Bible" lang="gd">
+			<div id="b.MAR" type="book">
+				<div id="b.MAR.1" type="chapter">
+					<seg id="b.MAR.1.1" type="verse">
+						T oiseachd soisgeul Iosa Criosda, Mac Dhe
+					</seg>
+					<seg id="b.MAR.1.2" type="verse">
+						Air reir `s mar tha e sgriobhte san fhaidh Isaias: seall, cuiridh mi m` aingeal roimh do ghnuis, a reiticheas do shlighe romhad
+					</seg>
+					<seg id="b.MAR.1.3" type="verse">
+						Guth neach ag eigheach san fhasach: Reitichibh slighe an Tighearna, agus dianaibh a rathadain direach
+					</seg>
+					<seg id="b.MAR.1.4" type="verse">
+						Bha Eoin anns an fhasach a baisteadh, `sa searmonachadh baisteadh an aithreachais gu mathanas pheacannan
+					</seg>
+					<seg id="b.MAR.1.5" type="verse">
+						Agus chaidh duthaich Iudea uile mach ga ionnsuidh, agus muinntir Ierusalem gu leir, is bhaisteadh iad leis ann an abhuinn Iordain ag aideachadh am peacannan
+					</seg>
+					<seg id="b.MAR.1.6" type="verse">
+						Agus bha Eoin air eideadh le fionnadh chamhal, is crios leathair mu mheadhon; agus dh` ith e locuist is mil fhiadhaich. Agus shearmonaich e ag radh
+					</seg>
+					<seg id="b.MAR.1.7" type="verse">
+						Tha fear nas cumhachdaiche na mise tighinn as mo dheigh: neach nach airidh mise air cromadh sios is barail a bhrogan fhuasgladh
+					</seg>
+					<seg id="b.MAR.1.8" type="verse">
+						Bhaist mise sibh le uisge; ach baistidh esan sibh leis an Spiorad Naomh
+					</seg>
+					<seg id="b.MAR.1.9" type="verse">
+						Is thachair, gun tainig Iosa anns na laithean sin bho Nasareth Ghalile; agus bhaisteadh e le Eoin ann an abhuinn Iordan
+					</seg>
+					<seg id="b.MAR.1.10" type="verse">
+						`S air ball a direadh as an uisge, chunnaic e neamh fosgailte, `s an Spiorad mar chalman a tearnadh `sa fantuinn air
+					</seg>
+					<seg id="b.MAR.1.11" type="verse">
+						Agus thainig guth bho neamh : Is tusa mo Mhac gaolach, is mor mo thlachd dhiot
+					</seg>
+					<seg id="b.MAR.1.12" type="verse">
+						Agus ghrad-ghreas an Spiorad e dhan fhasach
+					</seg>
+					<seg id="b.MAR.1.13" type="verse">
+						Agus bha e san fhasach da-fhichead latha, agus da-fhichead oidhche; is bhuaireadh le Satan e; `s bha e comhla ris na h-ainmhidhean, agus bha na h-ainglean a frithealadh dha
+					</seg>
+					<seg id="b.MAR.1.14" type="verse">
+						`S an deigh do dh` Eoin a bhith air a chuir an greim, thainig Iosa do Ghalile, a searmonachadh soisgeul rioghachd Dhe
+					</seg>
+					<seg id="b.MAR.1.15" type="verse">
+						`S ag radh: Tha `n t-am air a choimhlionadh, `s tha rioghachd Dhe aig laimh; deanaibh aithreachas, agus creidibh san t-soisgeul
+					</seg>
+					<seg id="b.MAR.1.16" type="verse">
+						`Sa gabhail ri taobh muir Ghalile, chunnaic e Simon,agus Anndra a bhrathair, a cur lion sa mhuir (oir b` iasgairean iad.)
+					</seg>
+					<seg id="b.MAR.1.17" type="verse">
+						Agus thuirt Iosa riutha: Thigibh leanaibh mise, agus ni mi iasgairean dhaoine dhibh
+					</seg>
+					<seg id="b.MAR.1.18" type="verse">
+						Agus ghrad dh` fhag iad na lin, is lean iad e
+					</seg>
+					<seg id="b.MAR.1.19" type="verse">
+						`Sa gabhail as a sin ceum beag air adhart, chunnaic e Seumas mac Shebede agus Eoin a bhrathair, `s iad a caradh nan lion sa bhata
+					</seg>
+					<seg id="b.MAR.1.20" type="verse">
+						Agus ghairm e iad san uair. `Sa fagail an athar Sebede maille ris an luchd thuarasdail sa bhata, lean iad e
+					</seg>
+					<seg id="b.MAR.1.21" type="verse">
+						Agus chaidh iad a stigh do Chapharnaum; agus air dha a dhol a stigh gun dail air na laithean sabaid dhan t-sinagog, theagaisg e iad
+					</seg>
+					<seg id="b.MAR.1.22" type="verse">
+						Agus ghabh iad ioghnadh ri theagasg: oir bha e gan teagasg mar neach aig an robh cumhachd, `s chan ann mar na Sgriobhaich
+					</seg>
+					<seg id="b.MAR.1.23" type="verse">
+						Agus bha san t-sinagag aca duine anns an robh spiorad neoghlan, is dh` eigh 
+					</seg>
+					<seg id="b.MAR.1.24" type="verse">
+						Ag radh: Ciod an comunn eadar sinn agus thusa, Iosa bho Nasareth? An tainig thu gus ar sgrios? Is aithne dhomh co thu, Aon Naomh Dhe
+					</seg>
+					<seg id="b.MAR.1.25" type="verse">
+						Is mhaoith Iosa air, ag radh: Bi samhach, agus gabh a-mach as an duine
+					</seg>
+					<seg id="b.MAR.1.26" type="verse">
+						`S an spiorad neoghlan ga reubadh, `s ag eigheach le guth ard, chaidh e mach as
+					</seg>
+					<seg id="b.MAR.1.27" type="verse">
+						Agus ghabh iad uile ioghnadh, ionnus gun d` fharraid iad `nam measg fhein, ag radh: De tha so? De an teagasg ur so? oir tha e toirt orduigh le cumhachd do na spioraid neoghlan fhein, agus tha iad umhail dha
+					</seg>
+					<seg id="b.MAR.1.28" type="verse">
+						`Agus sgaoil iomradh air gun dail feadh duthaich Ghalile uile
+					</seg>
+					<seg id="b.MAR.1.29" type="verse">
+						`Sa dol a mach air ball as an t-sinagog, thainig iad maille ri Seumas is Eoin gu tigh Shimoin is Anndra
+					</seg>
+					<seg id="b.MAR.1.30" type="verse">
+						Agus bha mathair-cheile Shimoin `na laidhe ann am fiabhras; agus dh `innis iad dha gun dail mu deidhinn
+					</seg>
+					<seg id="b.MAR.1.31" type="verse">
+						Agus thainig e, `sa breith air laimh oirre thog e i is ghrad-dh` fhag am fiabhras i, agus fhreasdail i dhaibh
+					</seg>
+					<seg id="b.MAR.1.32" type="verse">
+						`S nuair thainig am feasgar, `sa chaidh a ghrian fodha, thug iad ga ionnsuidh iadsan uile a bha easlainteach, agus anns an robh deomhain
+					</seg>
+					<seg id="b.MAR.1.33" type="verse">
+						`S bha am baile uile air cruinneachadh aig an dorus
+					</seg>
+					<seg id="b.MAR.1.34" type="verse">
+						Agus leighis e moran, a bha air an leireadh le iomadh gne ghalar, agus thilg e mach moran dheomhan, `s cha do leig e leo labhairt, a chionn `s gum b` aithne dhaibh e
+					</seg>
+					<seg id="b.MAR.1.35" type="verse">
+						`S ag eirigh ro-mhoch, `sa dol a mach, chaidh e gu aite fas; is rinn e urnaigh an sin
+					</seg>
+					<seg id="b.MAR.1.36" type="verse">
+						Agus lean Simon e, agus iadsan a bha comhla ris
+					</seg>
+					<seg id="b.MAR.1.37" type="verse">
+						`S nuair a fhuair iad e, thuirt iad ris: Tha iad uile gad shireadh
+					</seg>
+					<seg id="b.MAR.1.38" type="verse">
+						Is thuirt e riutha: rachamaid dha na bailtean sa choimhearsnachd, gus an searmonaich mi an sin cuideachd: `s gur ann air son so a thainig mi
+					</seg>
+					<seg id="b.MAR.1.39" type="verse">
+						`S bha e teagasg `nan sinagogan, `s feadh Ghalile uile, `sa tilgeadh a-mach dheomhan
+					</seg>
+					<seg id="b.MAR.1.40" type="verse">
+						Agus thainig lobhar ga ionnsuidh, a guidhe air; `sa tuiteam air a ghluinean,thuirt e ris: Ma `s aill leat, is urrainn dhut mo ghlanadh
+					</seg>
+					<seg id="b.MAR.1.41" type="verse">
+						`Sa gabhail truais ris, shin Iosa a lamh, `sa beantuinn dha, thuirt e ris : Is aill leam: bi glan
+					</seg>
+					<seg id="b.MAR.1.42" type="verse">
+						`S nuair thuirt e so, ghrad-dh` fhag an luibhre e, agus bha e air a ghlanadh
+					</seg>
+					<seg id="b.MAR.1.43" type="verse">
+						`S thug e sparradh cruaidh dha, agus leig e air falbh e gun dail
+					</seg>
+					<seg id="b.MAR.1.44" type="verse">
+						`S thuirt e ris: Fiach nach innis thu do neach sam bith : ach falbh, fiach thu fhein don ard-shagart, agus tairg air son do ghlanaidh na nithean a dh` orduich Maois, mar theisteanas dhaibh
+					</seg>
+					<seg id="b.MAR.1.45" type="verse">
+						Ach air dhasan a dhol a mach, thoisich e ri innse, `s ri sgaoileadh an sgeoil; air chor `s nach b` urrainn dha a nis a dhol a stigh don bhaile gu follaiseach, ach dh` fhuirich e a mach ann an aiteachan fas, agus chrunnaich iad as gach aite ga ionnsuidh
+					</seg>
+				</div>
+				<div id="b.MAR.2" type="chapter">
+					<seg id="b.MAR.2.1" type="verse">
+						Agus thill e gu Capharnaum an ceann beagan laithean, agus chualas gun robh e aig an tigh
+					</seg>
+					<seg id="b.MAR.2.2" type="verse">
+						Agus chruinnich na h-uimhir, `s nach robh aite aca eadhon timcheall an dorais, is labhair e am facal riutha
+					</seg>
+					<seg id="b.MAR.2.3" type="verse">
+						Agus thainig iad ga ionnsuidh a toirt leo duine, air an robh am pairilis, air a ghiulan le ceathrar
+					</seg>
+					<seg id="b.MAR.2.4" type="verse">
+						`Sa chionns nach b` urrainn dhaibh a chur `na lathair le domhlachd an t-sluaigh, ruisg iad mullach an tighe far an robh e; `S air dhaibh fosgladh a dhianamh, leig iad sios an leaba air an robh fear na crithe `na laidhe
+					</seg>
+					<seg id="b.MAR.2.5" type="verse">
+						`S nuair chunnaic Iosa an creideamh, thuirt e ri fear na crithe: A mhic, tha do pheacannan mathte dhut
+					</seg>
+					<seg id="b.MAR.2.6" type="verse">
+						Ach bha cuid de na Sgriobhaich `nan suidhe an sin, `sa smaoineachadh `nan cridheachan
+					</seg>
+					<seg id="b.MAR.2.7" type="verse">
+						Carson a tha e a bruidhinn mar so? tha e labhairt blaisbheum. Co is urrainn peacannan a mhathadh, ach Dia `na aonar
+					</seg>
+					<seg id="b.MAR.2.8" type="verse">
+						Dh` aithnich Iosa san uair `na spiorad fhein gun robh iad a smaoineachadh so aca fhein, is thuirt e riutha : Carson tha sibh a smaoineachadh nan nithean sin `nur cridheachan
+					</seg>
+					<seg id="b.MAR.2.9" type="verse">
+						Co dhiu is fhasa radh ri fear na crithe: Tha do pheacannan mathte dhut; no radh: Eirich, tog do leaba, agus coisich
+					</seg>
+					<seg id="b.MAR.2.10" type="verse">
+						Ach los fios a bhith agaibh gu bheil comas aig Mac an duine peacannan a mhathadh air talamh (thuirt e ri fear na crithe,
+					</seg>
+					<seg id="b.MAR.2.11" type="verse">
+						Tha mi ag radh riut: Eirich, tog do leaba, agus falbh dhachaigh
+					</seg>
+					<seg id="b.MAR.2.12" type="verse">
+						Agus ghrad-dh` eirich e: `sa togail a leaba, dh` fhalbh e `nam fianuis uile; air chors gun do ghabh iad ioghnadh air fad, `s thug iad gloir do Dhia, ag radh: Chan fhaca sinn riamh a leithid so
+					</seg>
+					<seg id="b.MAR.2.13" type="verse">
+						Is chaidh e mach a-rithist gu taobh na mara; agus thainig an sluagh uile ga ionnsuidh, is theagaisg e iad
+					</seg>
+					<seg id="b.MAR.2.14" type="verse">
+						`S nuair a bha e gabhail seachad, chunnaic e Lebhi Mac Alpheuis `na shuidhe an tigh na cise, is thuirt e ris: Lean mise. `S ag eirigh, lean e e
+					</seg>
+					<seg id="b.MAR.2.15" type="verse">
+						Agus thachair, nuair a bha e `na shuidhe aig biadh `na thigh-san, gun do shuidh moran chismhaor is pheacach maille ri Iosa agus a dheisciopuil: oir bha moran ann, a lean e
+					</seg>
+					<seg id="b.MAR.2.16" type="verse">
+						Agus na Sgriobhaich `s na Phairisich a faicinn gun robh e ag ithe comhla ri cismhaoir agus peacaich, thuirt iad ri dheisciopuil: Carson a tha ur maighistir ag ithe `s ag ol comhla ri cismhaoir agus peacaich
+					</seg>
+					<seg id="b.MAR.2.17" type="verse">
+						Air do Iosa so a chluinntinn, thuirt e riutha: Chan eil feum aig daoine slana air lighich, ach aig daoine tinne: oir cha tainig mi a ghairm nan naomh ach nam peacach
+					</seg>
+					<seg id="b.MAR.2.18" type="verse">
+						Agus bha deisciopuil Eoin `s nam Phairiseach a trasgadh; agus thainig iad, is thuirt iad ris: Carson tha deisciopuil Eoin `s nan Phairiseach ri traisg, agus nach eil na deisciopuil agadsa ri traisg
+					</seg>
+					<seg id="b.MAR.2.19" type="verse">
+						Is thuirt Iosa riutha: An urrainn clann na bainnse trasgadh, fhad sa bhitheas fear-na-bainnse comhla riutha? Fhad sa bhitheas fear-na-bainnse comhla riutha, chan urrainn dhaibh trasgadh
+					</seg>
+					<seg id="b.MAR.2.20" type="verse">
+						Ach thig na laithean anns an toirear bhuatha fear-na-bainnse: agus an sin ni iad traisg anns na laithean sin
+					</seg>
+					<seg id="b.MAR.2.21" type="verse">
+						Chan fhuaghail duine sam bith breid de dh` aodach ur air seann eideadh: air-neo bheir am breid ur a liad fhein as an t-seann aodach, is bithidh an stracadh nas mua
+					</seg>
+					<seg id="b.MAR.2.22" type="verse">
+						Agus cha chuir duine sam bith fion ur ann an seann searragan: air-neo sgainidh am fion na searragan, is doirtear am fion, agus caillear na searragan: ach is coir fion ur a chur an searragan ura
+					</seg>
+					<seg id="b.MAR.2.23" type="verse">
+						Is thachair a rithist, nuair a bha an Tighearna triall tro achaidhean arbhair air an t-sabaid, gun do theann a dheisciopuil, `s iad a gabhail air adhart, ri spioladh dhias
+					</seg>
+					<seg id="b.MAR.2.24" type="verse">
+						Is thuirt na Phairisich ris: Seall, carson tha iad a dianamh air latha na sabaid ni nach eil ceadaichte
+					</seg>
+					<seg id="b.MAR.2.25" type="verse">
+						Is thuirt e riutha: Nach do leugh sibh riamh, ciod a rinn Daibhidh, nuair a bha e feumach `s air acras, e fhein agus iadsan a bha cuideris
+					</seg>
+					<seg id="b.MAR.2.26" type="verse">
+						Mar a chaidh e stigh do thigh Dhe ri linn Abiathair an t-ard-shagart, agus dh` ith e an t-aran-tairgse, nach robh ceadaichte itheadh, ach do na sagairt, agus thug e dhaibhsan a bha comhla ris 
+					</seg>
+					<seg id="b.MAR.2.27" type="verse">
+						Is thuirt e riutha: Rinneadh an t-sabaid air son an duine, `s chan e an duine air son na sabaid
+					</seg>
+					<seg id="b.MAR.2.28" type="verse">
+						Mar sin se Mac an duine Tighearna na sabaid fhein
+					</seg>
+				</div>
+				<div id="b.MAR.3" type="chapter">
+					<seg id="b.MAR.3.1" type="verse">
+						Is chaidh e stigh a-rithist dhan t-sinagog, agus bha fear an sin aig an robh lamh sheargte
+					</seg>
+					<seg id="b.MAR.3.2" type="verse">
+						Agus bha suil aca air, fiach an dianadh e leigheas air latha sabaid; los cuis dhitidh fhaighinn `na aghaidh
+					</seg>
+					<seg id="b.MAR.3.3" type="verse">
+						Agus thuirt e ris an duine aig an robh an lamh sheargte: Seas suas sa mhiadhon
+					</seg>
+					<seg id="b.MAR.3.4" type="verse">
+						Is thuirt e riutha: A bheil e laghail math a dhianamh air na laithean sabaid, no olc? beatha a thiarnadh, no cur as dhi? Ach bha iadsan `nan tosd
+					</seg>
+					<seg id="b.MAR.3.5" type="verse">
+						`S ag amharc orra mun cuairt le feirg `s le duilichinn air son doille an cridhe, thuirt e ris an duine: Sin a mach do lamh. Agus shin e i: is rinneadh slan a lamh dha
+					</seg>
+					<seg id="b.MAR.3.6" type="verse">
+						`S na Phairisich a dol a mach, ghabh iad comhairle san uair cuide ris na Herodianich na aghaidh, fiach ciamar a chuireadh iad as dha
+					</seg>
+					<seg id="b.MAR.3.7" type="verse">
+						Ach chaidh Iosa maille ri dheisciopuil a lethtaobh thun na mara; agus lean moran sluaigh e bho Ghalile `s bho Iudea
+					</seg>
+					<seg id="b.MAR.3.8" type="verse">
+						Agus bho lerusalem, agus bho Idumea, `S bho thaobh thall Iordain; is iadsan mu thimchioll Thiruis agus Shidoin, cuideachda mhor, `s iad air cluinntinn nan nithean a rinn e, thainig iad ga ionnsuidh
+					</seg>
+					<seg id="b.MAR.3.9" type="verse">
+						Agus thuirt e ri dheisciopuil, bata beag a bhith ga fhreasdal as leth an sluaigh, eagal gun domhlaicheadh iad e
+					</seg>
+					<seg id="b.MAR.3.10" type="verse">
+						Oir leighis e moran, air chor `s gun do bhruchd iad ga ionnsuidh gu beantuinn dha, a mhiad `sa bha easlainteach
+					</seg>
+					<seg id="b.MAR.3.11" type="verse">
+						`S nuair a chunnaic na spioraid neoghlan e, thuit iad sios air a bhialaobh: agus dheigh iad, ag radh
+					</seg>
+					<seg id="b.MAR.3.12" type="verse">
+						Is tusa Mac Dhe. Is mhaoith e gu fuathasach orra, gun iad ga dhianamh follaiseach
+					</seg>
+					<seg id="b.MAR.3.13" type="verse">
+						`Sa dol suas gu beinn, ghairm e h-uige an fheadhainn a b` aill leis fhein; agus thainig iad ga ionnsuidh
+					</seg>
+					<seg id="b.MAR.3.14" type="verse">
+						Agus roghnaich e gum biodh da fhear dhiag maille ris; agus gun cuireadh e a theagasg iad
+					</seg>
+					<seg id="b.MAR.3.15" type="verse">
+						Is thug e comas dhaibh tinneasan a leigheas, agus deomhain a thilgeadh a mach
+					</seg>
+					<seg id="b.MAR.3.16" type="verse">
+						Agus thug e Peadar mar ainm air Simon
+					</seg>
+					<seg id="b.MAR.3.17" type="verse">
+						Agus Seumas Shebede, agus Eoin, brathair Sheumais, is thug e Boanerges mar ainm orra, se sin, mic an tairneanaich
+					</seg>
+					<seg id="b.MAR.3.18" type="verse">
+						Agus Anndra, agus Philip, agus Bartholome, agus Matu, agus Tomas, agus Seumas Alpheuis, agus Thadeus, agus Simon, an Cananeach
+					</seg>
+					<seg id="b.MAR.3.19" type="verse">
+						Agus Iudas Iscariot, esan mar an ciadna a bhrath e
+					</seg>
+					<seg id="b.MAR.3.20" type="verse">
+						Is thainig iad gu tigh; agus chruinnich an sluagh a rithist, air chor `s nach b urrainn dhaibh urad agus aran ithe
+					</seg>
+					<seg id="b.MAR.3.21" type="verse">
+						S nuair a chuala a chairdean so, chaidh iad a bhreith air; oir thuirt iad: Gun do ghabh e an caothach
+					</seg>
+					<seg id="b.MAR.3.22" type="verse">
+						Is thuirt na Sgriobhaich, a thainig a nuas a Ierusalem: Tha Beelsebub aige, `s gur ann le prionnsa nan deomhan a tha e tilgeadh a mach dheomhan
+					</seg>
+					<seg id="b.MAR.3.23" type="verse">
+						`S an deigh an gairm ri cheile, thuirt e riutha ann an dubhfhacail: Ciamar is urrainn Satan Satan a thilgeadh a mach
+					</seg>
+					<seg id="b.MAR.3.24" type="verse">
+						Agus ma bhios rioghachd air a roinn na h-aghaidh fhein, chan urrainn dhan rioghachd sin seasamh
+					</seg>
+					<seg id="b.MAR.3.26" type="verse">
+						Agus ma bhios tigh air a roinn `na aghaidh fhein, chan urrainn dhan tigh sin seasamh
+					</seg>
+					<seg id="b.MAR.3.26" type="verse">
+						`S ma tha Satan air eirigh `na aghaidh fhein, tha e roinnte, `s chan urrainn dha seasamh, ach tha crioch air
+					</seg>
+					<seg id="b.MAR.3.27" type="verse">
+						Chan urrainn do neach sam bith a dhol a stigh do thigh duine laidir, agus airneas a spuilleadh, mur ceangal e an toiseach an duine laidir, agus an sin creachaidh e a thigh
+					</seg>
+					<seg id="b.MAR.3.28" type="verse">
+						Gu firinneach tha mi ag radh ribh, gum mathar do chlann-daoine a h-uile peacadh, agus na blaisbheuman leis an toir iad toibheum
+					</seg>
+					<seg id="b.MAR.3.29" type="verse">
+						Ach esan a their blaisbheum an aghaidh an Spioraid Naoimh, chan fhaigh e mathanas a chaoidh, ach bithidh e ciontach am peacadh siorruidh
+					</seg>
+					<seg id="b.MAR.3.30" type="verse">
+						Chionn gun robh iad ag radh: Tha spiorad neoghlan aige
+					</seg>
+					<seg id="b.MAR.3.31" type="verse">
+						Is thainig a mhathair `sa bhraithrean; `s nan seasamh a muigh, chuir iad ga shireadh
+					</seg>
+					<seg id="b.MAR.3.32" type="verse">
+						Agus bha an sluagh nan suidhe mun cuairt air; is thuirt iad ris: Faic tha do mhathair `s do bhraithrean a muigh gad iarraidh
+					</seg>
+					<seg id="b.MAR.3.33" type="verse">
+						Agus gam freagairt thuirt e: Co i mo mhathair, agus co iad mo bhraithrean
+					</seg>
+					<seg id="b.MAR.3.34" type="verse">
+						`S ag amharc mun cuairt orrasan, a bha `nan suidhe mu thimcheall, thuirt e: Seall mo mhathair, agus mo bhraithrean
+					</seg>
+					<seg id="b.MAR.3.35" type="verse">
+						Oir is esan, a ni toil Dhe, mo bhrathair, agus mo phiuthar, agus mo mhathair
+					</seg>
+				</div>
+				<div id="b.MAR.4" type="chapter">
+					<seg id="b.MAR.4.1" type="verse">
+						Agus thoisich e rithist ri teagasg aig taobh na mara; is chrunnaich moran sluaigh ga ionnsuidh, air chor gun deachaidh e air bord bata `s gun do shuidh e sa bhata air a mhuir, agus bha an sluagh uile ri taobh na mara air tir
+					</seg>
+					<seg id="b.MAR.4.2" type="verse">
+						Agus theagasg e moran nithean dhaibh an dubhfhacail, is thuirt e riutha `na theagasg
+					</seg>
+					<seg id="b.MAR.4.3" type="verse">
+						Eisdibh: Seall chaidh fear-cuir a mach a chur
+					</seg>
+					<seg id="b.MAR.4.4" type="verse">
+						`S nuair a bha e cur, thuit cuid ri taobh an rathaid agus thainig eoin an athair, agus dh` ith iad e
+					</seg>
+					<seg id="b.MAR.4.5" type="verse">
+						Agus thuit cuid eile air talamh creagach, far nach robh moran uire aige: `S ghrad-dh` fhas e, chionn nach robh doimhneachd fuinn aige
+					</seg>
+					<seg id="b.MAR.4.6" type="verse">
+						`S nuair a dh` eirich a ghrian, shearg e; `s bho nach robh friamh aige, shearg e as
+					</seg>
+					<seg id="b.MAR.4.7" type="verse">
+						Agus thuit cuid eile dheth am measg dhreaghan; agus dh` fhas an dreaghan suas, is thachd e e, agus cha tug e mach toradh
+					</seg>
+					<seg id="b.MAR.4.8" type="verse">
+						Agus thuit cuid eile air talamh math; agus dh` fhas e suas, is chinnich e, agus thug e bhuaithe toradh, cuid deich thar fhichead, cuid tri fichead, agus cuid ciad fillte
+					</seg>
+					<seg id="b.MAR.4.9" type="verse">
+						Is thuirt e: Esan aig a bheil cluasan gu cluinntinn, cluinneadh e
+					</seg>
+					<seg id="b.MAR.4.10" type="verse">
+						Agus nuair a bha e leis fhein, dh` fhaighnich na dha dhiag, a bha comhla ris, an dubhfhacal dheth
+					</seg>
+					<seg id="b.MAR.4.11" type="verse">
+						Is thuirt e riutha: Thugadh dhuibhse eolas air run -diomhair rioghachd Dhe: ach dhaibhsan, a tha muigh, nithear a h-uile ni ann an dubhfhacail
+					</seg>
+					<seg id="b.MAR.4.12" type="verse">
+						Air chor `sa faicinn gum faiceadh iad, `s nach bu leir dhaibh; `sa cluinntinn gun cluinneadh iad, `s nach tuigeadh iad: eagal gun tionndaidh iad uair sam bith, `s gum mathte dhaibh am peacannan
+					</seg>
+					<seg id="b.MAR.4.13" type="verse">
+						Is thuirt e riutha: Nach tuig sibh an dubhfhacal so? agus ciamar a thuigeas sibh a h-uile dubhfhacal
+					</seg>
+					<seg id="b.MAR.4.14" type="verse">
+						Esan a tha cur, tha e cur an fhacail
+					</seg>
+					<seg id="b.MAR.4.15" type="verse">
+						Agus is iadsan ri taobh an rathaid, far na chuireadh am facal, an fheadhainn nach luaithe chluinneas iad e, na thig Satan, is togaidh e air falbh am facal a chuireadh nan cridheachan
+					</seg>
+					<seg id="b.MAR.4.16" type="verse">
+						Agus is iadsan mar an ciadna, a chuireadh anns an talamh chreagach, an fheadhainn, an deigh dhaibh eisdeachd ris an fhacal, a ghrad-ghlac e le aoibhneas
+					</seg>
+					<seg id="b.MAR.4.17" type="verse">
+						`S chan eil friamh aca unnta fhein, agus cha mhair iad fada; nuair a dh` eireas trioblaid agus geur leanmhuinn air son an fhacail, tha iad a tuiteam air falbh
+					</seg>
+					<seg id="b.MAR.4.18" type="verse">
+						Agus tha feadhainn eile ann, a tha air an cur am measg dhreaghan; `siad sin iadsan a dh` eisdeas ris an fhaca
+					</seg>
+					<seg id="b.MAR.4.19" type="verse">
+						Ach tha iomaguin an t-saoghail, agus mealltaireachd beartais, agus sannt air nithean eile a dol a stigh `sa tachdadh an fhacail, agus ga fhagail gun toradh
+					</seg>
+					<seg id="b.MAR.4.20" type="verse">
+						Agus an fheadhainn a chuireadh air talamh math, `s iad sin iadsan a dh` eisdeas ris an fhacal, `sa ghlacas e, sa bheir a mach toradh, cuid deich thar fhichead, cuid tri fichead, cuid ciad fillte
+					</seg>
+					<seg id="b.MAR.4.21" type="verse">
+						Is thuirt e riutha: An toirear coinneal, gus a cur fo shaghach, no fo leabaidh? nach ann gus a cur an coinnleir
+					</seg>
+					<seg id="b.MAR.4.22" type="verse">
+						Oir chan eil ni am falach, nach toirear am follais; `s cha d` rinneadh ni an uaigneas, ach los gun nochdar e
+					</seg>
+					<seg id="b.MAR.4.23" type="verse">
+						Ma tha cluasan aig duine sam bith gu cluinntinn, cluinneadh e
+					</seg>
+					<seg id="b.MAR.4.24" type="verse">
+						Is thuirt e riutha: Thugaibh an aire dhan rud a chluinneas sibh. Leis an tomhas leis na thomhais sibh, toimhsear dhuibh air ais, agus cuirear tuilleadh ris dhuibh
+					</seg>
+					<seg id="b.MAR.4.25" type="verse">
+						Oir dhan neach aig a bheil, bheirear: agus bhon neach aig nach eil bheirear an ni sin fhein a th` aige bhuaithe
+					</seg>
+					<seg id="b.MAR.4.26" type="verse">
+						Is thuirt e: Mar so tha rioghachd Dhe mar gun tilgeadh duine siol anns an talamh
+					</seg>
+					<seg id="b.MAR.4.27" type="verse">
+						`S gun caidleadh e, `s gun eireadh e a dh` oidhche `sa latha, `S gum fasadh an siol, `s gun cinneadh e gun fhios dha
+					</seg>
+					<seg id="b.MAR.4.28" type="verse">
+						Oir bheir an talamh a mach toradh leis fhein, an toiseach an duilleag, an sin an dias, a rithist an grainnean lan anns an deis
+					</seg>
+					<seg id="b.MAR.4.29" type="verse">
+						`S nuair a tha `n toradh abaich, cuiridh e an corran ris gun dail, bho na tha am foghar air tighinn
+					</seg>
+					<seg id="b.MAR.4.30" type="verse">
+						Is thuirt e: Co ris a shamhlaicheas sinn rioghachd Dhe? no ciod an dubhfhacal ris an cuir sinn an coimeas i
+					</seg>
+					<seg id="b.MAR.4.31" type="verse">
+						Tha i coltach ri grainne de shiol mustaird, nuair a chuirear san talamh i, is lugha i den h-uile siol a tha air thalamh
+					</seg>
+					<seg id="b.MAR.4.32" type="verse">
+						`S an deigh a cur, fasaidh i suas, is cinnidh i nas mua na h-uile luibh, is cuiridh i mach geugan mora, agus faodaidh eoin an athair tamh fo `sgaile
+					</seg>
+					<seg id="b.MAR.4.33" type="verse">
+						Agus le iomadh dubhfhacal den leithidean so, labhair e riutha am facal, air reir `s mar b` urrainn dhaibh eisdeachd
+					</seg>
+					<seg id="b.MAR.4.34" type="verse">
+						Agus gun dubhfhacal cha do labhair e riutha: ach a lethtaobh mhinich e a h-uile ni dha dheisciopuil
+					</seg>
+					<seg id="b.MAR.4.35" type="verse">
+						Is thuirt e riutha an latha sin fhein, nuair thainig am feasgar: Rachamaid null thun an taoibh eile
+					</seg>
+					<seg id="b.MAR.4.36" type="verse">
+						`Sa cur air falbh an t-sluaigh, ghabh iad e stigh don eathar mar a bha e; is bha eathraichean eile comhla ris
+					</seg>
+					<seg id="b.MAR.4.37" type="verse">
+						Agus dh` eirich stoirm mhor ghaoithe, agus thaom i na tuinn a stigh don eathar, air chor `s gun robh an t-eathar a lionadh
+					</seg>
+					<seg id="b.MAR.4.38" type="verse">
+						Agus bha esan an deireadh an eathair `na chadal air cluasaig; agus dhuisg iad e, is thuirt iad ris: A Mhaighistir, nach eil umhail agad gu bheil sinn a dol a dhith
+					</seg>
+					<seg id="b.MAR.4.39" type="verse">
+						`S ag eirigh chronaich e a ghaoth, `s thuirt e ris a mhuir: Gabh fois, bi samhach. Is laidh a ghaoth; agus thainig fiath mor
+					</seg>
+					<seg id="b.MAR.4.40" type="verse">
+						Is thuirt e riutha: Carson a tha eagal oirbh? Nach eil creideamh agaibh fhathast? Agus ghabh iad eagal mor; is thuirt iad ri cheile
+					</seg>
+					<seg id="b.MAR.4.41" type="verse"/>
+				</div>
+				<div id="b.MAR.5" type="chapter">
+					<seg id="b.MAR.5.1" type="verse">
+						Agus thainig iad thairis air a chaolas mhara gu duthaich nan Geresach
+					</seg>
+					<seg id="b.MAR.5.2" type="verse">
+						`Sa dol a mach as an eathar, ghrad-choinnich fear e a tighinn a mach as na h-uaighean anns an robh spiorad neoghlan
+					</seg>
+					<seg id="b.MAR.5.3" type="verse">
+						Aig an robh a chomhnaidh anns na h-uaighean, `s cha b` urrainn do dhuine sam bith a cheangal a nis, eadhon le slabhruidhean
+					</seg>
+					<seg id="b.MAR.5.4" type="verse">
+						Oir ged chaidh a cheangal gu tric le cuibhrichean, `s le slabhruidhean, bhrist e na slabhruidhean, `s bhruan e na cuibhrichean, agus cha burrainn do dhuine sam bith a cheannsachadh
+					</seg>
+					<seg id="b.MAR.5.5" type="verse">
+						Is bha e daonnan a latha sa dh` oidhche anns na h-uaighean agus anns na beanntan, ag eigheach, `s ga bhruthadh fhein le clachan
+					</seg>
+					<seg id="b.MAR.5.6" type="verse">
+						`Sa faicinn Iosa fad as, ruith e, `s thug e aoradh dha
+					</seg>
+					<seg id="b.MAR.5.7" type="verse">
+						`S ag eigheach le guth ard, thuirt e: Ciod mo ghnothach-sa riut, Iosa Mhic an De is airde? guidheam ort as leth Dhe, nach pian thu mi
+					</seg>
+					<seg id="b.MAR.5.8" type="verse">
+						Oir thuirt e ris: Gabh a mach as an duine, a spioraid neoghlain
+					</seg>
+					<seg id="b.MAR.5.9" type="verse">
+						Agus dh` fhaighnich e dheth: De t-ainm tha ort? Is thuirt e ris: Se Legion m` ainm, oir is moran sinn
+					</seg>
+					<seg id="b.MAR.5.10" type="verse">
+						Is ghrios e gu cruaidh air, nach fogradh e mach as an duthaich e
+					</seg>
+					<seg id="b.MAR.5.11" type="verse">
+						Agus bha an sin mun bheinn treud mhor mhuc ag ionaltradh
+					</seg>
+					<seg id="b.MAR.5.12" type="verse">
+						Agus ghuidh na spioraid air, ag radh: Cuir thun nam muc sinn, los gun teid sinn a stigh unnta
+					</seg>
+					<seg id="b.MAR.5.13" type="verse">
+						Agus thug Iosa cead dhaibh san uair. Thainig na spioraid neoghlan a mach agus chaidh iad a stigh dha na mucan; is chaidh an treud, a bha mu dha mhile, `nan deann-ruith an comhair an cinn dhan mhuir, agus bhathadh sa mhuir iad
+					</seg>
+					<seg id="b.MAR.5.14" type="verse">
+						Agus theich an fheadhainn a bha gam biadhadh, is dh` innis iad e sa bhaile, is feadh na duthcha. Agus chaidh iad a mach a dh` fhaicinn ciod a thachai
+					</seg>
+					<seg id="b.MAR.5.15" type="verse">
+						Is thainig iad gu Iosa, agus chunnaic iad esan, a bha air a sharachadh leis an deomhan, `na shuidhe agus aodach uime, agus `na lan chiall; is ghabh iad eagal
+					</seg>
+					<seg id="b.MAR.5.16" type="verse">
+						Agus dh` innis iadsan, a chunnaic e, dhaibh mar a rinneadh airesan anns an robh an deomhan, agus mu dheidhinn nam muc
+					</seg>
+					<seg id="b.MAR.5.17" type="verse">
+						Agus thoisich iad ri guidhe air, falbh as an criochan
+					</seg>
+					<seg id="b.MAR.5.18" type="verse">
+						`S nuair a bha e a dol a stigh dhan bhata, thoisich am fear, a bha air a phianadh leis an deomhan, ri guidh` air a leigeil comhla ris
+					</seg>
+					<seg id="b.MAR.5.19" type="verse">
+						Ach cha do leig e leis, `s ann a thuirt e ris: Falbh dhachaigh gud chairdean, is innis na rinn an Tighearna dhut, `s mar a ghabh e truas riut
+					</seg>
+					<seg id="b.MAR.5.20" type="verse">
+						Is dh` fhalbh e, agus thoisich e ri innse ann an Decapolis na rinn Iosa dha; agus ghabh iad uile ioghnadh
+					</seg>
+					<seg id="b.MAR.5.21" type="verse">
+						`S nuair a thill Iosa a rithist chon an taobh eile sa bhata, chrunnaich moran sluaigh ga ionnsuidh, agus bha e teann air a mhuir
+					</seg>
+					<seg id="b.MAR.5.22" type="verse">
+						Agus thainig fear de dh` uachdrain an t-sinagoig, dham b` ainm Iairus; `s ga fhaicinn, thuit e sios aig a chasan
+					</seg>
+					<seg id="b.MAR.5.23" type="verse">
+						Agus ghuidh` e gu cruaidh air, ag radh: Tha mo nighean ri uchd bais, thig, cuir do lamh oirre, los gun leighisear i, `s gum bi i beo
+					</seg>
+					<seg id="b.MAR.5.24" type="verse">
+						Is dh` fhalbh e comhla ris, agus lean cuideachda mhor e, is bha iad a domhlachadh mun cuairt air
+					</seg>
+					<seg id="b.MAR.5.25" type="verse">
+						Agus boirionnach, air an robh siubhal-fala fad da bhliadhna dhiag
+					</seg>
+					<seg id="b.MAR.5.26" type="verse">
+						`S a dh` fhuilig moran bho iomadh lighich, `sa chosg a cuid uile, `s nach deach dad am feobhas, ach an aite sin a dh`fhas nas miosa
+					</seg>
+					<seg id="b.MAR.5.27" type="verse">
+						A cluinntinn mu Iosa, thainig i, am measg an t-sluaigh, air a chulaobh, agus bhean i dha eideadh
+					</seg>
+					<seg id="b.MAR.5.28" type="verse">
+						Oir thuirt i: Ged nach dian mi ach beantuinn dha aodach, bithidh mi slan
+					</seg>
+					<seg id="b.MAR.5.29" type="verse">
+						Is thiormaich san uair a siubhal-fala, agus dh` fhairich i air a coluinn gun robh a h- eucail air a leigheis
+					</seg>
+					<seg id="b.MAR.5.30" type="verse">
+						Agus dh` aithnich Iosa sa cheart uair ann fhein, gun deach feartan a mach bhuaithe, agus thionndaidh e ris an t-sluagh, is thuirt e: Co bhean dham eideadh
+					</seg>
+					<seg id="b.MAR.5.31" type="verse">
+						Is thuirt a dheisciopuil ris: Tha thu faicinn domhlachd an t-sluaigh `s an abair thu: Co bhean dhomh
+					</seg>
+					<seg id="b.MAR.5.32" type="verse">
+						Agus sheall e mun cuairt a dh` fhaicinn na te a rinn so
+					</seg>
+					<seg id="b.MAR.5.33" type="verse">
+						Ach am biorionnach a tuigsinn na rinneadh innte, thainig i fo fhiamh `s air chrith, agus thuit i sios air a bhialaobh, is dh` innis i dha an fhirinn gu leir
+					</seg>
+					<seg id="b.MAR.5.34" type="verse">
+						Is thuirt esan rithe: A nighean, rinn do chreideamh slan thu: falbh ann an sith, is bi air do leigheas bho d` eucail
+					</seg>
+					<seg id="b.MAR.5.35" type="verse">
+						Nuair a bha e fhathast a labhairt, thainig feadhainn bho riaghladair an t-sinagoig, ag radh: Chaochail do nighean: carson a tha thu cur tuilleadh dragh air a mhaighistir
+					</seg>
+					<seg id="b.MAR.5.36" type="verse">
+						Nuair a chuala Iosa an comhradh a bh`aca, thuirt e ri riaghladair an t-sinagoig: Na gabh eagal: ach a mhain creid
+					</seg>
+					<seg id="b.MAR.5.37" type="verse">
+						`S cha do leig e le duine sam bith a leantuinn, ach Peadar, agus Seumas, agus Eoin, brathair Sheumais
+					</seg>
+					<seg id="b.MAR.5.38" type="verse">
+						Is rainig iad tigh riaghladair an t-sinagoig, agus chuinnaic e an iomairt, is sluagh a gal, `sa caoidh gu goirt
+					</seg>
+					<seg id="b.MAR.5.39" type="verse">
+						`Sa dol a stigh, thuirt e riutha: Carson tha sibh fo bhruaillean, sa gal? chan eil an nighean marbh, ach na cadal
+					</seg>
+					<seg id="b.MAR.5.40" type="verse">
+						Is rinn iad gaire fanaid air. Ach chuir esan a mach iad uile, agus thug e leis athair is mathair na h-ighinn, is iadsan a bha comhla ris, agus chaidh e a stigh far an robh an nighean `na laidhe
+					</seg>
+					<seg id="b.MAR.5.41" type="verse">
+						`Sa breith air laimh na h-ighinn, thuirt e rithe: Talitha cum, se sin air eadar-theangachadh : A nighean (tha mu ag radh riut), eirich
+					</seg>
+					<seg id="b.MAR.5.42" type="verse">
+						Is dh` eirich an nighean san uair, is choisich i, oir bha i da bhliadhna dhiag a dh` aois. Agus b` anabarrach an t-iognadh a ghabh iad
+					</seg>
+					<seg id="b.MAR.5.43" type="verse">
+						Is sparr e gu cruaidh orra, gun neach sam bith fios fhaighinn air an so; agus dh` iarr e orra rudeigin a thoirt dhi ri itheadh
+					</seg>
+				</div>
+				<div id="b.MAR.6" type="chapter">
+					<seg id="b.MAR.6.1" type="verse">
+						Is dh`fhalbh e as a sin, agus chaidh e gu dhuthaich fhein; is lean a dheisciopuil e
+					</seg>
+					<seg id="b.MAR.6.2" type="verse">
+						Agus nuair thainig an t-sabaid, thoisich e ri teagasg san t-sinagog; is ghabh moran a bha ga eisdeachd ioghnadh ri theagag ag radh: Co as an tainig na tha aig an duine so? agus de an gliocas a tha air a thoirt dha: `s na gniomhan cho euchdail, a th` air an dianamh le lamhan
+					</seg>
+					<seg id="b.MAR.6.3" type="verse">
+						Nach e so an saor, mac Moire, brathair Sheumais, is Ioseiph, is Iuda, is Shimoin? nach eil a pheathraichean an so maille ruinn? Agus ghabh iad sgainneal as
+					</seg>
+					<seg id="b.MAR.6.4" type="verse">
+						Is thuirt Iosa riutha: Chan eil faidh gun onair ach `na dhuthaich fhein, agus `na thigh fhein, `s am measg a chairdean fhein
+					</seg>
+					<seg id="b.MAR.6.5" type="verse">
+						Agus cha burrainn dha miarailt sam bith a dhianamh an sin, ach a mhain gun do leighis e beagan de dhaoine tinne le a lamhan a leagail orra
+					</seg>
+					<seg id="b.MAR.6.6" type="verse">
+						Is ghabh e ioghnadh rin cion creidimh, agus dh` imich e feadh nam bailtean mun cuairt a teagasg
+					</seg>
+					<seg id="b.MAR.6.7" type="verse">
+						Agus ghairm e na dha dhiag: is thoisich e air an cur air falbh lion dithis is dithis, agus thug e cumhachd dhaibh thairis air spioradan neoghlan
+					</seg>
+					<seg id="b.MAR.6.8" type="verse">
+						Is dh`aithn e orra gun dad a thoirt leo air an rathad, ach bata a mhain: gun mhala, gun aran, gun airgiod `nan sporan
+					</seg>
+					<seg id="b.MAR.6.9" type="verse">
+						Ach cuarain air a chasan, `s gun da chota a chur orra
+					</seg>
+					<seg id="b.MAR.6.10" type="verse">
+						Is thuirt e riutha: Ge be aite san teid sibh a stigh do thigh, fanaibh ann, gus am falbh sibh as a sin
+					</seg>
+					<seg id="b.MAR.6.11" type="verse">
+						Agus aite sam bith nach gabh ribh, `s nach eisd ribh, a falbh as a sin, crathaibh an duslach dher casan mar fhianais `nan aghaidh
+					</seg>
+					<seg id="b.MAR.6.12" type="verse">
+						`Sa gabhail a mach, shearmonaich iad gun fheumar aithreachas a dheanamh
+					</seg>
+					<seg id="b.MAR.6.13" type="verse">
+						Agus thilg iad a mach moran dheomhan, is dh` ung iad le ola moran dhaoine tinne, agus leighis iad iad
+					</seg>
+					<seg id="b.MAR.6.14" type="verse">
+						Agus chuala righ Herod (Oir rinneadh `ainm Iosa follaiseach), is thuirt e: Dh` eirich Eoin Baistidh bho na mairbh: `s air an aobhar sin tha feartan gan oibreachadh leis
+					</seg>
+					<seg id="b.MAR.6.15" type="verse">
+						Ach thuirt feadhainn eile: Se Elias a th` ann. Is thuirt cuid eile: Se faidh th` ann, mar aon de na faidhean a bh`ann bho shean
+					</seg>
+					<seg id="b.MAR.6.16" type="verse">
+						Air do Herod so a chluinntinn, thuirt e: Se Eoin, dhen tug mise an ceann, a th` ann, dh` eirich e bho na mairbh
+					</seg>
+					<seg id="b.MAR.6.17" type="verse">
+						Oir chuir Herod fhein a mach is ghlac e Eoin, agus cheangal e am priosan e as leth Herodiais, bean a bhrathar Philip, chionn gun do phos e i
+					</seg>
+					<seg id="b.MAR.6.18" type="verse">
+						Oir thuirt Eoin ri Herod: Chan eil e laghail dhut bean do bhrathar a bhith agad
+					</seg>
+					<seg id="b.MAR.6.19" type="verse">
+						Agus bha Herodias le droch run na aghaidh, agus bha toil aice a mharbhadh, ach cha b` urrainn dhi
+					</seg>
+					<seg id="b.MAR.6.20" type="verse">
+						Oir bha eagal aig Herod roimh Eoin, a tuigsinn gun robh e `na dhuine ceart agus naomh: agus ghleidh e sabhailte e, agus air dha eisdeachd ris, bhiodh e fo iomagain, ach dh` eisdeadh e ris gu toileach
+					</seg>
+					<seg id="b.MAR.6.21" type="verse">
+						Agus nuair a thainig latha freagrach, rinn Herod suipeir, airson latha bhreith, do dh` uaislean, `s do cheannardan, `s do mhaithean Ghalile
+					</seg>
+					<seg id="b.MAR.6.22" type="verse">
+						`S nuair a thainig nighean Herodiais so a stigh, `sa dhanns i, `sa thaitinn i ri Herod, agus riuthasan a bha aig bord comhla ris, thuirt an righ ris a chailin: iarr orm nas aill leat, is bheir mi dhut e
+					</seg>
+					<seg id="b.MAR.6.23" type="verse">
+						Agus mhionnaich e dhi: Ge be ni a dhiarras tu bheir mi dhut e, ged a b`e leth mo rioghachd
+					</seg>
+					<seg id="b.MAR.6.24" type="verse">
+						Nuair chaidh i mach, thuirt i ri mathair: De a dh` iarras mi? ach thuirt ise: Ceann Eoin Baistidh
+					</seg>
+					<seg id="b.MAR.6.25" type="verse">
+						`S air dhi tighinn a stigh le cabhaig san uair thun an righ, dh` iarr i, ag radh: Is aill leam gun toir thu dhomh san uair ceann Eoin Baiste air meis
+					</seg>
+					<seg id="b.MAR.6.26" type="verse">
+						Agus bha `n righ ro-dhuilich: ach as leth a mhionnan, s air son na feadhnach a bh` aig bord maille ris, cha b` aill leis miothlachd a chur oirre
+					</seg>
+					<seg id="b.MAR.6.27" type="verse">
+						`Sa cur sleagh-fhear bhuaithe, dh` orduich e a cheann a thoirt a stigh air meis. Is thug e an ceann dheth sa phriosan
+					</seg>
+					<seg id="b.MAR.6.28" type="verse">
+						Agus thug e leis a cheann air meis, `s thug e don chailin e; agus thug a chailin dha mathair e
+					</seg>
+					<seg id="b.MAR.6.29" type="verse">
+						Nuair chuala a dheisciopuil so, thainig iad, `s thug iad leo a chorp, agus chuir iad ann an uaigh e
+					</seg>
+					<seg id="b.MAR.6.30" type="verse">
+						Is chruinnich na h-ostail gu Iosa, agus dh` innis iad dha a h-uile ni, a bha iad air dianamh, `s air teagasg
+					</seg>
+					<seg id="b.MAR.6.31" type="verse">
+						Is thuirt e riutha: Thigibh a lethtaobh gu aite fas, agus leigibh ur n-anail airson beagan uine. Oir bha iad lionor an fheadhainn a bha tighinn `sa dol; agus cha robh uine aca air biadh fhein a ghabhail
+					</seg>
+					<seg id="b.MAR.6.32" type="verse">
+						`Sa gabhail a stigh do bhata, chaidh iad a lethtaobh gu aite fas
+					</seg>
+					<seg id="b.MAR.6.33" type="verse">
+						Agus chunnacas iad a falbh, `s bha fios aig moran air; sa falbh air an cois as na bailtean uile, ruith iad an sin, agus bha iad rompa
+					</seg>
+					<seg id="b.MAR.6.34" type="verse">
+						`Sa dol air tir, chunnaic Iosa sluagh mor: agus ghabh e truas riutha, a chionn gun robh iad mar chaoraich gun bhuachaille, agus thoisich e ri moran a theagasg dhaibh
+					</seg>
+					<seg id="b.MAR.6.35" type="verse">
+						Agus nuair a bha nis a mhor chuid dhan latha seachad, thainig a dheisciopuil ga ionnsuidh, ag radh : Is fasach an t-aite so, `s tha `n uair a nis air ruit
+					</seg>
+					<seg id="b.MAR.6.36" type="verse">
+						Leig air falbh iad, los a dol do na tighean duthcha `s do na bailtean is fhaisge orra gun ceannaich iad biadh dhaibh fhein a dh` itheas iad
+					</seg>
+					<seg id="b.MAR.6.37" type="verse">
+						Agus fhreagair e iad, ag radh: Thugaibh fhein biadh dhaibh ri ithe. Is thuirt iad ris: An rachamaid a cheannach luach da chiad sgilinn de dh` aran a bheir sinn dhaibh ri ithe
+					</seg>
+					<seg id="b.MAR.6.38" type="verse">
+						Is thuirt e riutha: Co miad bonnach-arain a thagaibh? siubhlaibh a dh` fhaicinn. Agus nuair a fhuair iad mach, thuirt iad: Coig, `s da iasg
+					</seg>
+					<seg id="b.MAR.6.39" type="verse">
+						Agus dh` orduich e dhaibh a thoirt orra suidhe uile nam buidhnean air an fhiar ghorm
+					</seg>
+					<seg id="b.MAR.6.40" type="verse">
+						Is shuidh iad sios `nan cuideachdan chiadan agus leth-chiadan
+					</seg>
+					<seg id="b.MAR.6.41" type="verse">
+						`Sa glacadh na coig bonnaich-arain, `s an da iasg, `s ag amharc suas gu neamh, bheannaich e, is bhrist e na bonnaich, agus thug e iad dha dheisciopuil, gus an cur air am bialaobh; agus roinn e an da iasg orra uile
+					</seg>
+					<seg id="b.MAR.6.42" type="verse">
+						Is dhith iad uile, agus riaraicheadh iad
+					</seg>
+					<seg id="b.MAR.6.43" type="verse">
+						Is thog iad lan da chliabh dhiag de spruileach, `s de dhiasg
+					</seg>
+					<seg id="b.MAR.6.44" type="verse">
+						Agus b` e aireamh na feadhnach, a dh` ith, coig mile fear
+					</seg>
+					<seg id="b.MAR.6.45" type="verse">
+						`S air ball thug e air a dheisciopuil a dhol a stigh do bhata, gus iad a dhol roimhe thar a chaol gu Bethsaida, fhad `sa bhiodh e fhein a sgaoileadh an t-sluaigh
+					</seg>
+					<seg id="b.MAR.6.46" type="verse">
+						Agus nuair a sgaoil e iad, chaidh e suas do bheinn a ghabhail urnaigh
+					</seg>
+					<seg id="b.MAR.6.47" type="verse">
+						`S nuair a bha an t-anmoch ann bha am bata am miadhon na fairge, agus esan leis fhein air tir
+					</seg>
+					<seg id="b.MAR.6.48" type="verse">
+						`Sa faicinn gun robh iad air an sarachadh ag iomradh (oir bha ghaoth nan aghaidh), thainig e mun cheathramh faire den oidhche gan ionnsuidh, a coiseachd air a mhuir; agus bha toil aige dhol seachad orra
+					</seg>
+					<seg id="b.MAR.6.49" type="verse">
+						Ach iadsan ga fhaicinn a coiseachd air a mhuir, shaoil iad gur e manadh a bh`ann, agus glaodh iad
+					</seg>
+					<seg id="b.MAR.6.50" type="verse">
+						Oir chunnaic iad uile e, agus gabh iad eagal mor. Agus ghrad-labhair e, is thuirt e riutha: Biodh misneach agaibh: Is mise thann, na biodh eagal oirbh
+					</seg>
+					<seg id="b.MAR.6.51" type="verse">
+						Agus chaidh e dhan bhata comhla riutha, agus laidh a ghaoth. Agus bha uamhas mhor orra
+					</seg>
+					<seg id="b.MAR.6.52" type="verse">
+						Oir cha do thuig iad mu na bonnaich-arain: oir bha an cridhe air a chruadhachadh
+					</seg>
+					<seg id="b.MAR.6.53" type="verse">
+						Agus nuair dh` aisig iad thairis, thainig iad gu talamh Ghenesareth, is tharruinn iad gu tir
+					</seg>
+					<seg id="b.MAR.6.54" type="verse">
+						`S nuair thainig iad as a bhata, dh` aithnich iad e san uair
+					</seg>
+					<seg id="b.MAR.6.55" type="verse">
+						Sa ruith feadh na duthcha sin uile, thoisich iad air an fheadhainn a bha tinn a ghiulan mun cuairt air leabaidhean far an cuala iad esan a bhith
+					</seg>
+					<seg id="b.MAR.6.56" type="verse">
+						Agus aite sam bith air an tadhaladh e air cathraichean, bailtean no duthaich, bha iad a cur nan daoine tinn air na straidean, `s a guid` air gum faodadh iad a mhain beantuinn do dh`iomall aodaich: `sa mhiad `s bhean dha, rinneadh slan iad
+					</seg>
+				</div>
+				<div id="b.MAR.7" type="chapter">
+					<seg id="b.MAR.7.1" type="verse">
+						Agus thainig na Phairisich ga ionnsuidh, is cuid dhe na Sgriobhaich bho Ierusalem
+					</seg>
+					<seg id="b.MAR.7.2" type="verse">
+						Agus nuair a chunnaic iad cuid dhe dheisciopuil ag ithe arain le lamhan cumanta, se sin, gun an nighe, fhuair iad coire dhaibh
+					</seg>
+					<seg id="b.MAR.7.3" type="verse">
+						Oir chan ith na Phairisich, agus na h-Iudhaich uile biadh, mur nigh iad an lamhan gu tric, a leantuinn beul-aithris nan seanairean
+					</seg>
+					<seg id="b.MAR.7.4" type="verse">
+						Agus ma thig iad bhon mhargadh, chan ith iad gun ionnlad; `s tha iomadh ni eile ann, a tha air an orduchadh dhaibh a chumail, mar tha nighe chupaichean, is phoitean, is shoitheachan praise
+					</seg>
+					<seg id="b.MAR.7.5" type="verse">
+						Agus dh` fharraid na Phairisich `s na Sgriobhaich dheth: Carson nach eil do dheisciopuil a leantuinn beul-aithris nan seanairean, ach ag ithe arain le lamhan gun nighe
+					</seg>
+					<seg id="b.MAR.7.6" type="verse">
+						Ach esan a freagairt, thuirt e riutha: Is math a dh` fhaisnich Isaias mur deidhinn, a chealgairean, mar tha e sgriobhte: Tha `m pobull so toirt urraim dhomhsa lem bilean: ach tha an cridhe fada bhuam
+					</seg>
+					<seg id="b.MAR.7.7" type="verse">
+						Agus is faoin dhaibh a bhith toirt aoraidh dhomhsa,`s iad a teasgasg puingean is orduighean dhaoine
+					</seg>
+					<seg id="b.MAR.7.8" type="verse">
+						Oir a fagail fainte Dhe, tha sibh a cumail beul-aithris dhaoine, mar tha nighe phoitean, is chupaichean; agus moran nithean eile den leithidean sin tha sibh a dianamh
+					</seg>
+					<seg id="b.MAR.7.9" type="verse">
+						Is thuirt e riutha: Is math tha sibh a cur fainte Dhe air chul, gus ur beul-aithris fhein a chumail
+					</seg>
+					<seg id="b.MAR.7.10" type="verse">
+						Oir thuirt Maois: Thoir onair dhad athair is dhad mhathair; agus: Am fear a mhollaicheas athair no mhathair, a basachadh basaicheadh e
+					</seg>
+					<seg id="b.MAR.7.11" type="verse">
+						Ach tha sibhse ag radh: Ma their duine ri `athair no ri mhathair corban sam bith (Se sin tobhartas) bhuamsa, thig e gu buannachd dhuts
+					</seg>
+					<seg id="b.MAR.7.12" type="verse">
+						Agus thar sin cha leig sibh leis dad a dhianamh dha athair, no dha mhathair
+					</seg>
+					<seg id="b.MAR.7.13" type="verse">
+						Mar sin, a cur facal Dhe air chul le ur bial-aithris fhein, a tha sibh a cumail a dol, agus tha sibh a dianamh iomadh ni eile coltach riutha sin
+					</seg>
+					<seg id="b.MAR.7.14" type="verse">
+						`Sa gairm a rithist an t-sluaigh ga ionnsuidh, thuirt e riutha: Eisdibh rium uile, agus tuigibh
+					</seg>
+					<seg id="b.MAR.7.15" type="verse">
+						Chan eil ni a dol a staigh ann an duine bhon taobh a mach, a `s urrainn a thruailleadh: ach `siad na nithean a tha tighinn a mach a duine, a tha truailleadh an duine
+					</seg>
+					<seg id="b.MAR.7.16" type="verse">
+						Ma tha cluasan aig neach sam bith gu cluinntinn, cluinneadh e
+					</seg>
+					<seg id="b.MAR.7.17" type="verse">
+						Agus nuair a chaidh e stigh don tigh bhon t-sluagh, dh` fharraid a dheisciopuil dheth mun dubhfhacal
+					</seg>
+					<seg id="b.MAR.7.18" type="verse">
+						Is thuirt e riutha: A bheil sibhse mar sin gun tuigse? Nach eil sibh a tuigsinn, nach eil ni sam bith a dol a stigh ann an duine bhon taobh a mach, a `s urrainn a thruailleadh
+					</seg>
+					<seg id="b.MAR.7.19" type="verse">
+						A chionn `s nach eil e a dol a stigh `na chridhe, ach a dol a stigh na bhroinn, theid e mach don dun. (Mar sin, a glanadh bhiadhan uile)
+					</seg>
+					<seg id="b.MAR.7.20" type="verse">
+						Ach thuirt e, gur iad na nithean, a thig a mach as an duine a thruailleas an duine
+					</seg>
+					<seg id="b.MAR.7.21" type="verse">
+						Oir `sann bhon taobh a stigh a cridhe dhaoine a thig droch smaointean, adhaltras, striopachas, murt
+					</seg>
+					<seg id="b.MAR.7.22" type="verse">
+						Goid, sannt, drochbheart, foill, mi-gheamnachd, droch-shuil, blaisbheum, uabhar, aimideachd
+					</seg>
+					<seg id="b.MAR.7.23" type="verse">
+						Tha na h-uilc sin uile a struthadh bhon taobh stigh, `s tha iad a truailleadh an duine
+					</seg>
+					<seg id="b.MAR.7.24" type="verse">
+						`S ag eirigh as a sin, chaidh e gu criochan Thiruis agus Shidoin; `sa dol a stigh do thigh, cha b` aill leis gum biodh fios aig duine sam bith air, ach cha b` urrainn dha a bhith am falach
+					</seg>
+					<seg id="b.MAR.7.25" type="verse">
+						Oir cho luath `sa chuala boirionnach, aig an robh nighean anns an robh spiorad neoghlan, mu dheidhinn, chaidh i stigh, agus thuit i aig a chasan
+					</seg>
+					<seg id="b.MAR.7.26" type="verse">
+						Oir bu bhana-phaganach am boirionnach de chinneadh Shirophenissa. Agus ghrios i air gun cuireadh e an deomhan as a h-ighinn
+					</seg>
+					<seg id="b.MAR.7.27" type="verse">
+						Thuirt esan rithe: Leig leis a chloinn a bhith air an riarachadh an toiseachd: oir chan eil e math aran na cloinne a ghabhail, `sa thilgeadh thun nan con
+					</seg>
+					<seg id="b.MAR.7.28" type="verse">
+						Ach fhreagair ise, is thuirt i ris: Is fior sin, a Thighearna, ach ithidh na cuileinean fon bhord de chriomagan na cloinne
+					</seg>
+					<seg id="b.MAR.7.29" type="verse">
+						Is thuirt e rithe: Air son an fhacail so bi falbh, chaidh an deomhan a mach as do nighinn
+					</seg>
+					<seg id="b.MAR.7.30" type="verse">
+						`S nuair rainig i a tigh, fhuair i an nighean `na laidhe air an leabaidh, `s an deomhan air a dhol a mach aisde
+					</seg>
+					<seg id="b.MAR.7.31" type="verse">
+						`Sa triall a rithist a criochan Thiruis, thainig e tromh Shidon gu muir Ghalile tromh mhiadhon criochan Dhecapolis
+					</seg>
+					<seg id="b.MAR.7.32" type="verse">
+						Agus thug iad ga ionnsuidh duine bodhar is balbh, agus ghuidh iad air, gun cuireadh e a lamh air
+					</seg>
+					<seg id="b.MAR.7.33" type="verse">
+						Is ga thoirt a lethtaobh a mach as an t-sluagh, chuir e mheoir `na chluasan; `s le shile bhean e dha theangaidh
+					</seg>
+					<seg id="b.MAR.7.34" type="verse">
+						`S ag amharc suas gu neamh, thug e osnadh, is thuirt e: Ephpheta, se sin, bi air d` fhosgladh
+					</seg>
+					<seg id="b.MAR.7.35" type="verse">
+						Agus san uair dh` fhosgladh a chluasan, agus dh` fhuasgladh ceangal a theangaidh, is labhair e ceart
+					</seg>
+					<seg id="b.MAR.7.36" type="verse">
+						Is dhaithn e orra gun iad a dh` innse do neach sam bith. Ach mar is mua dh` aithn e orra `sann is mua bha iadsan ga innse
+					</seg>
+					<seg id="b.MAR.7.37" type="verse">
+						Agus sann is mua ghabh iad ioghnadh, ag radh: Rinn e a h-uile ni gu math; thug e air na bodhair cluinntinn, agus air na balbhain labhairt
+					</seg>
+				</div>
+				<div id="b.MAR.8" type="chapter">
+					<seg id="b.MAR.8.1" type="verse">
+						Anns na laithean sin a rithist nuair a bha moran sluaigh ann, gun ni aca a dh` itheadh iad, ghairm e a dheisciopuil, is thuirt e riuth
+					</seg>
+					<seg id="b.MAR.8.2" type="verse">
+						Tha truas agam ris an t-sluagh: oir, seall, tha iad air giulan leam cheana tri latha, `s chan eil ni aca a dhitheas iad
+					</seg>
+					<seg id="b.MAR.8.3" type="verse">
+						Agus ma leigeas mi air falbh iad `nan traisg dhan tighean, fannaichidh iad air an rathad; oir thainig cuid dhiu air astar
+					</seg>
+					<seg id="b.MAR.8.4" type="verse">
+						Is fhreagair a dheisciopuil e: Ciamar is urrainn do neach an riarachadh le aran an so san fhasach
+					</seg>
+					<seg id="b.MAR.8.5" type="verse">
+						Is dh` fharraid e dhiu: Co miad bonnach a thagaibh? Thuirt iad: A seachd
+					</seg>
+					<seg id="b.MAR.8.6" type="verse">
+						Agus dh` orduich e don t-sluagh suidhe air an lar. `Sa glacadh nan seachd bonnaich, `sa toirt buidheachais, bhrist e, is thug e dha dheisciopuil iad gus an cur air am bialaobh, agus chuir iad air bialaobh an t-sluaigh iad
+					</seg>
+					<seg id="b.MAR.8.7" type="verse">
+						`S bha beagan de mheanbh-iasg aca; agus bheannaich e iad, agus dh` iarr e an cur air am bialaobh
+					</seg>
+					<seg id="b.MAR.8.8" type="verse">
+						Agus dh` ith iad, is riaraicheadh iad, agus den phronnaig a dh` fhagadh thog iad seachd cleibh
+					</seg>
+					<seg id="b.MAR.8.9" type="verse">
+						Is bha an fheadhainn a dh` ith mun cuairt do cheithir mile: agus chuir e air falbh iad
+					</seg>
+					<seg id="b.MAR.8.10" type="verse">
+						`S gun mhaille chaidh e air bord a bhata comhla ri dheisciopuil, agus thainig e gu criochan Dhalmanutha
+					</seg>
+					<seg id="b.MAR.8.11" type="verse">
+						Agus thainig na Phairisich a mach, is thoisich iad ri cheasnachadh, ag iarraidh comharraidh air bho neamh, ga bhuaireadh
+					</seg>
+					<seg id="b.MAR.8.12" type="verse">
+						`S ag osnaich `na spiorad, thuirt e: Carson a tha an ginealach so ag iarraidh comharraidh? gu deimhinn tha mi ag radh ribh, nach toirear comharradh don ghinealach so
+					</seg>
+					<seg id="b.MAR.8.13" type="verse">
+						Agus gam fagail chaidh e a rithist air bord bata, is dh` fhalbh e thar a chaol
+					</seg>
+					<seg id="b.MAR.8.14" type="verse">
+						Agus dhiochuimhnich iad aran a thoirt leo agus cha robh aca ach aon bhonnach maille riutha san eathar
+					</seg>
+					<seg id="b.MAR.8.15" type="verse">
+						Is dh` aithn e orra, ag radh bithibh sealltuinneach agus faicilleach bho thaois-ghoirt nam Phairiseach, `s bho thaois ghoirt Heroid
+					</seg>
+					<seg id="b.MAR.8.16" type="verse">
+						Agus bha iadsan a reusonachadh ri cheile, ag radh: `S ann a chionn `s nach eil aran againn
+					</seg>
+					<seg id="b.MAR.8.17" type="verse">
+						Thuirt Iosa riutha, `s e tuigsinn so: Carson tha sibh smaoineachadh a chionn `s nach eil aran agaibh? nach eil sibh a faicinn fhathast no a tuigsinn? a bheil ur cridhe dall fhathast
+					</seg>
+					<seg id="b.MAR.8.18" type="verse">
+						Tha suilean agaibh, `s nach eil sibh a faicinn? Agus cluasan agaibh, `s nach eil sibh a cluinntinn? Cha mhua tha sibh a cuimhneachadh
+					</seg>
+					<seg id="b.MAR.8.19" type="verse">
+						Nuair a bhrist mi na coig bonnaich am measg choig mile, co miad lan cleibh de phronnagan a thog sibh? Thuirt iad ris: A dha dhiag
+					</seg>
+					<seg id="b.MAR.8.20" type="verse">
+						A rithist, na seachd bonnaich am measg cheithir mile, co miad cliabh do phronnagan a thog sibh? Is thuirt iad ris: A seachd
+					</seg>
+					<seg id="b.MAR.8.21" type="verse">
+						Is thuirt e riutha: Ciamar nach eil sibh a tuigsinn fhathast
+					</seg>
+					<seg id="b.MAR.8.22" type="verse">
+						Agus thainig iad gu Bethsaida, `s thug iad duine dall ga ionnsuidh, agus ghuidh iad air gum beanadh e dha
+					</seg>
+					<seg id="b.MAR.8.23" type="verse">
+						`Sa breith air laimh an doill, thug e mach as a bhaile e; `sa cur a shile air a shuilean, `sa cur a lamhan air, dh` fharraid e dheth, an robh e faicinn dad
+					</seg>
+					<seg id="b.MAR.8.24" type="verse">
+						`Sa sealltuinn suas thuirt e: Tha mi faicinn dhaoine mar chraobhan ag imeachd
+					</seg>
+					<seg id="b.MAR.8.25" type="verse">
+						An sin chuir e a lamhan air a shuilean a rithist; agus thoisich e ri faicinn; is fhuair e fhradharc, air chor `s gum bu leir dha gach ni gu soilleir
+					</seg>
+					<seg id="b.MAR.8.26" type="verse">
+						Is chuir e gu thigh fhein e, ag radh: Falbh gud thigh; agus ma theid thu stigh don bhaile, na innis do neach sam bith
+					</seg>
+					<seg id="b.MAR.8.27" type="verse">
+						Agus chaidh Iosa agus a dheisciopuil a mach gu bailtean Chesarea Philippi; `S air an t-slighe dh` fharraid e dhe dheisciopuil, ag radh riutha: Co tha daoine ag radh is mi
+					</seg>
+					<seg id="b.MAR.8.28" type="verse">
+						Fhreagair iad e ag radh: Eoin Baistidh, cuid Elias, ach cuid eile mar aon de na faidhean
+					</seg>
+					<seg id="b.MAR.8.29" type="verse">
+						An sin thuirt e riutha: Ach co tha sibhse ag radh is mi? Fhreagair Peadar, is thuirt e ris: is tu Criosda
+					</seg>
+					<seg id="b.MAR.8.30" type="verse">
+						Agus mhaoidh e orra, gun iad a dh `innseadh so mu dheidhinn do neach sam bith
+					</seg>
+					<seg id="b.MAR.8.31" type="verse">
+						Is thoisich e ri theagasg dhaibh gum feum Mac an duine moran fhulang, a bhith air a dhiultadh leis na seanairean, `s leis na h-ardshagairt, agus leis na Sgriobhaich, `sa bhith air a chur gu bas; agus an deigh thri laithean eirigh a rithist
+					</seg>
+					<seg id="b.MAR.8.32" type="verse">
+						Agus labhair e am facal gu follaiseach. Agus rug Peadar air, agus theann e ri chronachadh
+					</seg>
+					<seg id="b.MAR.8.33" type="verse">
+						Ach Iosa a tionndadh, sheall e air a dheisciopuil, is bhagair e air Peadar, ag radh: Theirig air mo chulaobh, a shatain: oir chan eil tlachd agad do nithean Dhe, ach do nithean dhaoine
+					</seg>
+					<seg id="b.MAR.8.34" type="verse">
+						`Sa gairm an t-sluaigh maille ri dheisciopuil ga ionnsuidh, thuirt e riutha: Ma `s aill le neach sam bith mise leantuinn, aicheadhadh e e fhein, is togadh e chrois, agus leanadh e mi
+					</seg>
+					<seg id="b.MAR.8.35" type="verse">
+						Oir co sam bith leis an aill a bheatha shabhaladh, caillidh e i: agus co sam bith a chailleas a bheatha air mo shonsa, `s air son an t-soisgeil, sabhailidh e i
+					</seg>
+					<seg id="b.MAR.8.36" type="verse">
+						Oir ciod e is fheairrde duine, an saoghal a chosnadh gu leir, ma chailleas e anam
+					</seg>
+					<seg id="b.MAR.8.37" type="verse">
+						No ciod a bheir duine an eirig anma
+					</seg>
+					<seg id="b.MAR.8.38" type="verse">
+						Oir an neach a ghabhas naire asam-sa, is as mo bhriathran, anns a ghinealach adhaltrannach agus pheacach so, gabhaidh Mac an duine naire assan-san, nuair a thig e an gloir Athar maille ris na h-ainglean naomha
+					</seg>
+				</div>
+				<div id="b.MAR.9" type="chapter">
+					<seg id="b.MAR.9.1" type="verse">
+						Is thuirt e riutha: Gu deimhinn tha mi ag radh ribh, gu bheil cuid dhiu-san, a tha `nan seasamh an so, nach blais bas, gus am faic iad rioghachd Dhe a tighinn an cumhachd
+					</seg>
+					<seg id="b.MAR.9.2" type="verse">
+						Agus an deigh shia laithean ghabh Iosa Peadar, is Seumas, agus Eoin; is threoraich e iadsan leo fhein gu beinn aird a lethtaobh, agus dh` atharraicheadh a chruth `nan lathair
+					</seg>
+					<seg id="b.MAR.9.3" type="verse">
+						Agus dh` fhas eideadh dealrach is ro-gheal mar shneachda, geal mar nach urrainn fucadair air talamh a dhianamh
+					</seg>
+					<seg id="b.MAR.9.4" type="verse">
+						Is chunnacas leo Elias agus Maois; agus bha iad a bruidhinn ri Iosa
+					</seg>
+					<seg id="b.MAR.9.5" type="verse">
+						Agus Peadar a freagairt, thuirt e ri Iosa: A Rabbi, is math dhuinne a bhith an so; agus dianamaid tri paillionan, a h-aon dhutsa, a h-aon do Mhaois, `sa h-aon do Elias
+					</seg>
+					<seg id="b.MAR.9.6" type="verse">
+						Oir cha robh fios aige ciod a bha e ag radh; chionn `s gun robh iad fo fhiamh ro-mhor
+					</seg>
+					<seg id="b.MAR.9.7" type="verse">
+						Agus bha nial a cur sgaile orra, agus as an nial thainig guth, ag radh: Se so mo Mhac ro-ghaolach; eisdibh ris
+					</seg>
+					<seg id="b.MAR.9.8" type="verse">
+						`S ag amharc san uair mun cuairt orra, chan fhac iad duine, ach Iosa na aonar maille riutha
+					</seg>
+					<seg id="b.MAR.9.9" type="verse">
+						`Sa tearnadh bhon bheinn, dh` aithn e orra, gun iad a dh` innse do neach sam bith nan nithean a chunnaic iad, gus an eireadh Mac an duine bho na mairbh
+					</seg>
+					<seg id="b.MAR.9.10" type="verse">
+						Is gleidh iad am facal aca fhein, a cur cheisd air a cheile, de bha, gus an eireadh e bho na mairbh, a ciallachadh
+					</seg>
+					<seg id="b.MAR.9.11" type="verse">
+						Agus dh`fharraid iad dheth, ag radh: Carson ma ta tha na Phairisich `s na Sgriobhaich a cantuinn, gum feum Elias tighinn an toiseachd
+					</seg>
+					<seg id="b.MAR.9.12" type="verse">
+						Thuirt e riutha, `s e freagairt: Tha Elias ri tighinn an toiseachd, agus ath-shuidhichidh e a h-uile ni; is mar tha e sgriobhte mu Mhac an duine, gum fuilig e moran, `s gum faigh e taire
+					</seg>
+					<seg id="b.MAR.9.13" type="verse">
+						Ach tha mi ag radh ribh, gun tainig Elias, (`s gun d` rinn iad air gach ni b` aill leo) mar tha sgriobhte mu dheidhinn
+					</seg>
+					<seg id="b.MAR.9.14" type="verse">
+						`Sa tighinn gu dheisciopuil, chunnaic e moran sluaigh mun timcheall, `s na Sgriobhaich a deaspud riutha
+					</seg>
+					<seg id="b.MAR.9.15" type="verse">
+						`S cha luaithe chunnaic an sluagh uile Iosa, na ghlac ioghnadh agus uamhas iad, sa ruith ga ionnsuidh chuir iad failt` air
+					</seg>
+					<seg id="b.MAR.9.16" type="verse">
+						Agus dh` fhaighnich e dhiu: Ciod mu bheil sibh a consachadh ri cheile
+					</seg>
+					<seg id="b.MAR.9.17" type="verse">
+						Is fhreagair fear den t-sluagh, ag radh: A mhaighistir, thug mi gad ionnsuidh mo mhac anns a bheil spiorad balbh
+					</seg>
+					<seg id="b.MAR.9.18" type="verse">
+						Agus, ge be aite an glac e e, tha e ga bhualadh ri lar, agus tha e cur a mach cobhair, `sa diosgail le fhiaclan, sa seargadh as: is thuirt mi rid dheisciopuil iad a thilgeadh a mach, agus cha b` urrainn dhaibh
+					</seg>
+					<seg id="b.MAR.9.19" type="verse">
+						`Sa freagairt thuirt e: O ghinealaich ana-creidich, De cho fad sa bhitheas mi maille ribh? De cho fad sa chuireas mi suas ribh? thugaibh gam ionnsuidh e
+					</seg>
+					<seg id="b.MAR.9.20" type="verse">
+						Agus thug iad e ga ionnsuidh. Agus cha luaithe chunnaic e Iosa, na ghluais an spiorad e; is bhuaileadh e ris an lar, agus chuir e caran dheth is cop mu bhial
+					</seg>
+					<seg id="b.MAR.9.21" type="verse">
+						Is dh` fhaighnich e dhe athair: De cho fad bho na thachair so dha? Is thuirt esan: Bho na bha e `na leanabh
+					</seg>
+					<seg id="b.MAR.9.22" type="verse">
+						Agus is tric a thilg e san teine is anns an uisge e, gu cur as dha: ach ma tha ni sam bith nad chomas, gabh truas ruinn agus cuidich sinn
+					</seg>
+					<seg id="b.MAR.9.23" type="verse">
+						Is thuirt Iosa ris: Ma `s urrainn dhut creidsinn! is comasach a h-uile ni don chreideach
+					</seg>
+					<seg id="b.MAR.9.24" type="verse">
+						Agus athair a ghille a glaodhach san uair, thuirt e le deoir: Tha mi creidsinn, a Thighearna: cuidich m` ana-creideamh
+					</seg>
+					<seg id="b.MAR.9.25" type="verse">
+						Is nuair a chunnaic Iosa an sluagh a ruith cuideachd, mhaoidh e air an spiorad neoghlan, a cantuinn ris: A spioraid bhodhair agus bhailbh tha mi ag aithneadh ort, theirig a mach as `s na rach a stigh ann tuilleadh
+					</seg>
+					<seg id="b.MAR.9.26" type="verse">
+						Agus chaidh e mach as, ag eigheach, `s ga riabadh gu goirt: agus dh`fhas e coltach ri duine marbh, air chor `s gun robh moran ag radh: Tha e marbh
+					</seg>
+					<seg id="b.MAR.9.27" type="verse">
+						Ach Iosa a breith air laimh air, thog e e, agus dh` eirich e
+					</seg>
+					<seg id="b.MAR.9.28" type="verse">
+						`S nuair chaidh e stigh dhan tigh, dh` fharraid a dheisciopuil dheth, `s iad leo fhein: Carson nach b` urrainn dhuinn a thilgeadh a mach
+					</seg>
+					<seg id="b.MAR.9.29" type="verse">
+						Is thuirt e riutha: Chan urrainn don t-seorsa so an tilgeadh a mach air sheol sam bith, ach le urnaigh `s le traisg
+					</seg>
+					<seg id="b.MAR.9.30" type="verse">
+						`Sa falbh as a sin, chaidh iad troimh Ghalile; `s cha b` aill leis gum biodh fios aig duine sam bith air an so
+					</seg>
+					<seg id="b.MAR.9.31" type="verse">
+						Oir bha e teagasg a dheisciopul, `s ag radh riutha: Gun rachadh Mac an duine liubhairt seachad do lamhan dhaoine, `s gum marbhadh iad e, `s an deigh a mharbhadh, gun eireadh e rithist air an treas latha
+					</seg>
+					<seg id="b.MAR.9.32" type="verse">
+						Ach cha do thuig iadsan am facal; agus bha sgath orra fharraid dheth
+					</seg>
+					<seg id="b.MAR.9.33" type="verse">
+						Is thainig iad gu Capharnaum. `S nuair a bha iad san tigh, dh` fhaighnich e dhiu: De an deaspud a bh`agaibh air an rathad
+					</seg>
+					<seg id="b.MAR.9.34" type="verse">
+						Ach bha iadsan samhach: oir air an rathad bha iad a consachadh eatorra fhein, co dhiu bu mhua bhiodh
+					</seg>
+					<seg id="b.MAR.9.35" type="verse">
+						`Sa suidhe, ghairm e na dha dhiag, is thuirt e riutha: Ma tha toil aig fear sam bith a bhith air thoiseach, bithidh e air dheireadh orra uile, agus `na sheirbhiseach dhaibh uile
+					</seg>
+					<seg id="b.MAR.9.36" type="verse">
+						`Sa breith air leanabh, chuir e `nam miadhon e ; `s an deigh a ghlacadh `na uchd, thuirt e riutha
+					</seg>
+					<seg id="b.MAR.9.37" type="verse">
+						Co sam bith ghabhas ri leanabh den leithidean so nam ainmsa, tha e gabhail riumsa; agus co sam bith ghabhas riumsa, chan ann riumsa tha e gabhail, ach ris-san a chuir mi
+					</seg>
+					<seg id="b.MAR.9.38" type="verse">
+						Agus fhreagair Eoin e, ag radh: A Mhaighistir, chunnaic sinn duine araid, nach eile gar leantuinn-ne, a tilgeadh a mach dheomhan na d` ainmsa, agus bhac sinn e
+					</seg>
+					<seg id="b.MAR.9.39" type="verse">
+						Agus thuirt Iosa: Na bacaibh e: oir chan eil aon sam bith, a ni miarailt nam ainmsa, a `s urrainn gu h-ealamh labhairt gu h-olc nam aghaidh
+					</seg>
+					<seg id="b.MAR.9.40" type="verse">
+						Oir an neach nach eil nur n-aghaidh, tha e leibh
+					</seg>
+					<seg id="b.MAR.9.41" type="verse">
+						Oir co sam bith a bheir dhuibh ri ol cupan uisge nam ainmsa, a chionn`s gur le Criosda sibh: gu firinneach tha mi ag radh ribh: cha chaill e dhuais
+					</seg>
+					<seg id="b.MAR.9.42" type="verse">
+						Agus co sam bith bheir sgainneal do h-aon den fheadhainn bheaga so, a tha creidsinn unnamsa, b` fhearr dha clach mhuilinn a bhith crochte mu amhaich, `sa bhith air a thilgeil sa mhuir
+					</seg>
+					<seg id="b.MAR.9.43" type="verse">
+						`S ma bheir do lamh sgainneal dhut, gearr dhiot i: is fhearr dhut a dhol a stigh gu beatha air lethlaimh, na dhol le da laimh a dh` iutharna gu teine nach smalar
+					</seg>
+					<seg id="b.MAR.9.44" type="verse">
+						Far nach basaich a chnuimh aca, `s nach smalar an teine
+					</seg>
+					<seg id="b.MAR.9.45" type="verse">
+						Agus ma bheir do chas sgainneal dhut, gearr dhiot i: is fhearr dhut a dhol a stigh gu beatha air lethchois, na do thilgeadh le da chois a dh` iutharna gu teine nach tig as
+					</seg>
+					<seg id="b.MAR.9.46" type="verse">
+						Far nach basaich a chnuimh aca, `s nach smalar an teine
+					</seg>
+					<seg id="b.MAR.9.47" type="verse">
+						Agus ma bheir do shuil sgainneal dhut, spion asad i: `s fhearr dhut a dhol a stigh do rioghachd Dhe le aon shuil, na do thilgeadh led dha shuil ann an teine iutharna
+					</seg>
+					<seg id="b.MAR.9.48" type="verse">
+						Far nach basaich a chruimh aca, `S nach smalar an teine
+					</seg>
+					<seg id="b.MAR.9.49" type="verse">
+						Oir saillear gach aon le teine, is saillear gach iobairt le salann
+					</seg>
+					<seg id="b.MAR.9.50" type="verse">
+						Tha salann math: ach ma dh` fhasas an salann neo-bhlasda, co leis a ni sibh blasda e? Biodh salann agaibh unnaibh, agus biodh sith agaibh eadaraibh fhein
+					</seg>
+				</div>
+				<div id="b.MAR.10" type="chapter">
+					<seg id="b.MAR.10.1" type="verse">
+						`S ag eirigh as a sin, thainig e gu criochan Iuda air taobh thall Iordain; agus chruinnich sluagh a rithist ga ionnsuidh; agus mar a b` abhuist dha, theagaisg e rithist iad
+					</seg>
+					<seg id="b.MAR.10.2" type="verse">
+						`S na Phairisich a tighinn ga ionnsuidh, dh` fharraid iad dheth: Bheil e laghail do dhuine a bhean a chur air falbh? `s iad ga bhuaireadh
+					</seg>
+					<seg id="b.MAR.10.3" type="verse">
+						Ach esan a freagairt, thuirt e riutha: Ciod a dh` aithn Maois oirbh
+					</seg>
+					<seg id="b.MAR.10.4" type="verse">
+						Thuirt iad: Thug Maois cead litir-dhealachaidh a sgriobhadh, `s a cur air falbh
+					</seg>
+					<seg id="b.MAR.10.5" type="verse">
+						Thuirt Iosa gam freagairt : `S ann air son cruas ur cridhe a sgriobh e dhuibh an reachd so
+					</seg>
+					<seg id="b.MAR.10.6" type="verse">
+						Ach bho thus a chruthachaidh rinn Dia iad firionn is boirionn
+					</seg>
+					<seg id="b.MAR.10.7" type="verse">
+						Air son so fagaidh duine athair agus a mhathair, is dluth-leanaidh e ri mhnaoi
+					</seg>
+					<seg id="b.MAR.10.8" type="verse">
+						Agus bithidh an dithis nan aon fheoil. As leth sin cha dithis iad a nis, ach aon fheoil
+					</seg>
+					<seg id="b.MAR.10.9" type="verse">
+						An ni ma ta a cheangail Dia, na fuasgladh duine
+					</seg>
+					<seg id="b.MAR.10.10" type="verse">
+						Agus anns an tigh chuir a dheisciopuil ceisd air a rithist mun ni chiadna
+					</seg>
+					<seg id="b.MAR.10.11" type="verse">
+						Is thuirt e riutha: Co sam bith a chuireas air falbh a bhean, `sa phosas te eile, tha e dianamh adhaltrais na h-aghaidh
+					</seg>
+					<seg id="b.MAR.10.12" type="verse">
+						`S ma chuireas bean air falbh a fear, `s fear eile phosadh, tha i dianamh adhaltrais
+					</seg>
+					<seg id="b.MAR.10.13" type="verse">
+						Agus thug iad clann bheag ga ionnsuidh, los gum beanadh e dhaibh. Is bha na deisciopuil a maoitheadh air an fheadhainn a bha gan toirt uige
+					</seg>
+					<seg id="b.MAR.10.14" type="verse">
+						Nuair a chunnaic Iosa iad, ghabh e gu h-olc e, is thuirt e riutha: Leigibh le cloinn bhig tighinn gam ionnsuidh, agus na bacaibh iad: `s gur ann dhan leithidean a bhuineas rioghachd Dhe
+					</seg>
+					<seg id="b.MAR.10.15" type="verse">
+						Gu deimhinn tha mi gradh ribh: Co sam bith nach glac rioghachd Dhe mar leanabh beag, nach teid e a stigh innte
+					</seg>
+					<seg id="b.MAR.10.16" type="verse">
+						Is ghlac e `na uchd iad, `s a cur a lamhan orra, bheannaich e iad
+					</seg>
+					<seg id="b.MAR.10.17" type="verse">
+						`S nuair a dh` fhalbh e mach air a thurus, thainig duine araid `na ruith, `sa dol air a ghluinean air a bhialaobh, dh` fharraid e dheth, ag radh: A Mhaighistir mhath, ciod a ni mi gus a bheatha shiorruidh a chosnadh
+					</seg>
+					<seg id="b.MAR.10.18" type="verse">
+						Is thuirt Iosa ris: Carson a tha thu cantuinn math riumsa? chan eil aon sam bith math, ach Dia `na aonar
+					</seg>
+					<seg id="b.MAR.10.19" type="verse">
+						Is aithne dhut na faintean: Na dian adhaltras: Na dian marbhadh: Na dian goid: Na tog fianuis bhreige : Na dian mealltaireachd. Thoir onair dhad athair is dhad mhathair
+					</seg>
+					<seg id="b.MAR.10.20" type="verse">
+						Ach esan a freagairt, thuirt e ris: A Mhaighistir, iad sin uile chum mi bhom oige
+					</seg>
+					<seg id="b.MAR.10.21" type="verse">
+						Agus Iosa ag amharc air, thug e gaol dha, is thuirt e ris: Tha aon ni a dhith ort: falbh, reic na bheil agad, agus thoir do na bochdan e, agus bithidh iuntas agad am flathanas; is thig, lean mise
+					</seg>
+					<seg id="b.MAR.10.22" type="verse">
+						Ach bha duilichinn airesan as leth an fhacail, is dh` fhalbh e gu tuirseach: oir bu duine e aig an robh moran beairteis
+					</seg>
+					<seg id="b.MAR.10.23" type="verse">
+						Agus Iosa a coimhead mun cuairt air, thuirt e ri dheisciopuil: Nach duilich do dhuine beartach a dhol a stigh do rioghachd Dhe
+					</seg>
+					<seg id="b.MAR.10.24" type="verse">
+						Is ghabh a dheisciopuil ioghnadh a bhriathran. Ach Iosa freagairt a rithist, thuirt e riutha: A chlann bheag, nach duilich dhaibhsan, a chuireas uidh am beartas, dhol a stigh do rioghachd Dhe
+					</seg>
+					<seg id="b.MAR.10.25" type="verse">
+						Is fhasa do chamhal dhol tro chno snathaid, na do dhuine beartach a dhol a stigh do rioghachd Dhe
+					</seg>
+					<seg id="b.MAR.10.26" type="verse">
+						Is ghabh iad am barrachd ioghnaidh, ag radh ri cheile: Agus co is urrainn a bhith sabhailte
+					</seg>
+					<seg id="b.MAR.10.27" type="verse">
+						Agus thuirt Iosa, `s e ag amharc orra: Tha so do-dhiante do dhaoine, ach chan eil do Dhia: oir tha a h-uile ni an comas Dhe
+					</seg>
+					<seg id="b.MAR.10.28" type="verse">
+						Agus thoisich Peadar ri radh ris : Seall, dh` fhag sinn a h-uile ni, agus lean sinn thu
+					</seg>
+					<seg id="b.MAR.10.29" type="verse">
+						Is thuirt Iosa, `s e freagairt: Gu deimhinn tha mi ag radh ribh: chan eil neach sam bith a dh` fhagas tigh, no braithrean, no peathraichean, no athair, no mathair, no clann, no fearann, as mo lethsa, agus as leth an t-soisgeil
+					</seg>
+					<seg id="b.MAR.10.30" type="verse">
+						Nach fhaigh a chiad urad a nis san tim so fhein, tighean, agus braithrean, is peathraichean, is mathraichean, is clann, is fearann, am measg geur- leanmhuinn, agus a bheatha shiorruidh san ath shaoghal
+					</seg>
+					<seg id="b.MAR.10.31" type="verse">
+						Ach tha moran air thoiseach a bhitheas air dheireadh, `s air dheireadh a bhitheas air thoiseach
+					</seg>
+					<seg id="b.MAR.10.32" type="verse">
+						Agus bha iad air an rathad a dol suas gu Ierusalem; agus dh` imich Iosa rompa, is bha ioghnadh orra; is bha eagal orrasan a bha ga leantuinn. Agus ghabh e rithist na dha dhiag, agus thoisich e ri innse dhaibh na bha dol a thachairt dha
+					</seg>
+					<seg id="b.MAR.10.33" type="verse">
+						Seall, tha sinn a dol suas gu Ierusalem, agus liubhrar Mac an duine do na h-ard-shagairt, `s do na Sgriobhaich, `s do na seanairean, agus ditidh iad e gu bas, agus bheir iad seachad do na cinnich e
+					</seg>
+					<seg id="b.MAR.10.34" type="verse">
+						Is ni iad fanaid air, agus caithidh iad smugaidean air, agus sgiursaidh iad e; agus marbhaidh iad e, agus eiridh e air an treas latha
+					</seg>
+					<seg id="b.MAR.10.35" type="verse">
+						Is thainig Seumas agus Eoin, mic Shebede, ga ionnsuidh, ag radh: A Mhaighistir, is aill leinn gun dian thu dhuinn ni sam bith a dh` iarras sinn
+					</seg>
+					<seg id="b.MAR.10.36" type="verse">
+						Ach thuirt esan riutha: Ciod is aill leibh mi dhianamh dhuibh
+					</seg>
+					<seg id="b.MAR.10.37" type="verse">
+						Is thuirt iad: Deonaich dhuinn gun suidh sinn, fear againn air do laimh dheis `s am fear eile air do laimh chli, nad ghloir
+					</seg>
+					<seg id="b.MAR.10.38" type="verse">
+						Is thuirt Iosa riutha: Chan eil fhios agaibh de tha sibh ag iarraidh. An urrainn dhuibh a chailis ol, a tha mise dol a dhol, no bhith air ur baisteadh leis a bhaisteadh leis a bheil mise rim bhaisteadh
+					</seg>
+					<seg id="b.MAR.10.39" type="verse">
+						Is thuirt iad ris: Is urrainn dhuinn. Is thuirt Iosa riutha: Olaidh sibh gu dearbh a chailis, a tha mise dol a dh` ol; agus baistear sibh leis a bhaisteadh leis a bheil mise rim bhaistead
+					</seg>
+					<seg id="b.MAR.10.40" type="verse">
+						Ach suidhe air mo laimh dheis, no air mo laimh chli, cha leamsa gu thoirt dhuibh, ach dhaibhsan dhan deach uimheamachadh
+					</seg>
+					<seg id="b.MAR.10.41" type="verse">
+						Is nuair a chuala an deichnar so, thoisich iad ri bhith diumbach de Sheumas `s de Eoin
+					</seg>
+					<seg id="b.MAR.10.42" type="verse">
+						Ach Iosa gan gairm, thuirt e riutha: Is aithne dhuibh gum bheil acasan, air a bheileas a coimhead mar riaghladairean air na cinnich, ard-thighearnas orra, `s gum bheil cumhachd aig am prionnsaichean thairis orra
+					</seg>
+					<seg id="b.MAR.10.43" type="verse">
+						Ach chan ann mar sin a bhios nar measgsa: ach co sam bith leis am miann a bhith air thoiseach `nur measg, bithidh e `na fhear frithealaidh dhuibh
+					</seg>
+					<seg id="b.MAR.10.44" type="verse">
+						Is co sam bith leis an aill a bhith air thoiseach `nur measg, bithidh e `na sheirbhiseach agaibh uile
+					</seg>
+					<seg id="b.MAR.10.45" type="verse">
+						Oir cha tainig Mac an duine e fhein los gun diante frithealadh dha, ach gu frithealadh, `s gus a bheatha leigeil sios `na h-eirig air son mhorain
+					</seg>
+					<seg id="b.MAR.10.46" type="verse">
+						Agus rainig iad Iericho; `s nuair bha esan `sa dheisciopuil agus cuideachda ro-mhor a falbh, bh` an dall Bartimeus, mac Thimeiuis `na shuidhe ri taobh an rathaid, ag iarraidh deirce
+					</seg>
+					<seg id="b.MAR.10.47" type="verse">
+						`S nuair chuala e gur e Iosa bho Nasareth a bh`ann, thoisich e ri glaodhach `s ri radh: Iosa, a Mhic Dhaibhidh, dian trocair orm
+					</seg>
+					<seg id="b.MAR.10.48" type="verse">
+						Is mhaoith moran air, fiach am biodh e samhach. Ach `sann bu mhua gu mor a ghlaodh e: A Mhic Dhaibhidh, dian trocair orm
+					</seg>
+					<seg id="b.MAR.10.49" type="verse">
+						Agus sheas Iosa, is dh` orduich e a ghairm. Agus ghairm iad an dall, a cantuinn ris: Biodh misneachd agad: eirich, tha e gad iarraidh
+					</seg>
+					<seg id="b.MAR.10.50" type="verse">
+						`Sa tilgeadh bhuaithe fhalluinne, thainig e `na leum ga ionnsuidh
+					</seg>
+					<seg id="b.MAR.10.51" type="verse">
+						Agus Iosa a freagairt, thuirt e ris: Ciod is aill leat mi dhianamh dhut? Is thuirt an dall ris : A Rabboni, gum faic mi
+					</seg>
+					<seg id="b.MAR.10.52" type="verse">
+						Is thuirt Iosa ris: Falbh, rinn do chreideamh slan thu. Agus sa cheart uair chunnaic e, is lean e e air an t-slighe
+					</seg>
+				</div>
+				<div id="b.MAR.11" type="chapter">
+					<seg id="b.MAR.11.1" type="verse">
+						Agus nuair thainig e teann air Ierusalem is Betania aig sliabh Olibheit, chuir e air adhart dithis dhe a dheisciopuil
+					</seg>
+					<seg id="b.MAR.11.2" type="verse">
+						Is thuirt e riutha: Siubhlaibh don bhaile a tha mur coinneamh, agus air ball a dol a stigh ann, gheibh sibh asal og an ceangal, air nach do shuidh duine riamh: fuasglaibh is thugaibh an so e
+					</seg>
+					<seg id="b.MAR.11.3" type="verse">
+						Agus ma their duine sam bith ribh: Ciod tha sibh a dianamh? abraibh, gu bheil feum aig an Tighearna air, agus tillidh e e san uair
+					</seg>
+					<seg id="b.MAR.11.4" type="verse">
+						`Sa dol air an adhart fhuair iad an t-asal ceangailte air taobh mach a gheata aig coinneachadh da rathaid; is dh` fhuasgail iad e
+					</seg>
+					<seg id="b.MAR.11.5" type="verse">
+						Agus thuirt cuid den fheadhainn a bha `nan seasamh an sin riutha: Ciod tha sibh a dianamh a fuasgladh an asail
+					</seg>
+					<seg id="b.MAR.11.6" type="verse">
+						Is thuirt iad riutha mar a dh` orduich Iosa dhaibh, is leig iad leo e
+					</seg>
+					<seg id="b.MAR.11.7" type="verse">
+						Agus thug iad an t-asal gu Iosa; is chuir iad am falluinnean air, agus shuidh e air
+					</seg>
+					<seg id="b.MAR.11.8" type="verse">
+						Is sgaoil moran an aodaichean air an rathad; agus ghearr feadhainn eile geugan chraobh agus sgap iad air an rathad iad
+					</seg>
+					<seg id="b.MAR.11.9" type="verse">
+						Agus ghlaodh an fheadhainn a chaidh roimhe, `sa lean e, ag radh : Hosanna
+					</seg>
+					<seg id="b.MAR.11.10" type="verse">
+						Is beannaichte esan a tha tighinn an ainm an Tighearna: is beannaichte rioghachd ar n-athar Daibhidh a tha tighinn: Hosanna anns na h-ardaibh
+					</seg>
+					<seg id="b.MAR.11.11" type="verse">
+						Is chaidh e stigh do Ierusalem thun an teampuill; `s an deigh amharc air gach ni mun cuairt, bho na bha `m feasgar a nis ann, chaidh e gu Betania maille ris na dha dhiag
+					</seg>
+					<seg id="b.MAR.11.12" type="verse">
+						`S an ath latha nuair a chaidh iad a mach a Betania, bha acras air
+					</seg>
+					<seg id="b.MAR.11.13" type="verse">
+						`S nuair a chunnaic e fad as craobh-fhige air an robh duilleach, thainig e fiach am faigheadh e ma dh` fhaoidte dad oirre; `s nuair a rainig e i, cha d` fhuair e ach duilleagan: oir cha robh am nam figis ann
+					</seg>
+					<seg id="b.MAR.11.14" type="verse">
+						`Sa freagairt, thuirt e rithe: A so suas gu brath na itheadh neach meas dhiot. Agus bha dheisciopuil ga chluinntinn
+					</seg>
+					<seg id="b.MAR.11.15" type="verse">
+						Is rainig iad Ierusalem. `S nuair a chaidh e stigh don teampull, thoisich e ri fuadachadh a mach na feadhnach a bha reic, `s na feadhnach a bha ceannach san teampull; agus leag e buird luchd-malairt an airgid, is cathraichean luchd-reic chalman
+					</seg>
+					<seg id="b.MAR.11.16" type="verse">
+						`S chan fhuiligeadh e gun giulanadh neach sam bith saghach tromhn teampull
+					</seg>
+					<seg id="b.MAR.11.17" type="verse">
+						Is theagaisg e, ag radh riutha: Nach eil e sgriobhte: Gun abrar tigh urnaigh ri mo thighsa am measg nan cinneach uile? Ach rinn sibhse uamh mheirleach dheth
+					</seg>
+					<seg id="b.MAR.11.18" type="verse">
+						Agus nuair chuala na h-ard-shagairt `s na Sgriobhaich so, dh` iarr iad ciamar a dh` fhaodadh iad cur as dha: oir bha eagal aca roimhe, a chionn gun robh an sluagh uile a gabhail ioghnaidh ri theagasg
+					</seg>
+					<seg id="b.MAR.11.19" type="verse">
+						Agus nuair thainig am feasgar, chaidh e mach as a bhaile
+					</seg>
+					<seg id="b.MAR.11.20" type="verse">
+						`S nuair a bha iad a gabhail seachad sa mhaduinn, chunnaic iad a chraobh-fhige seargte bho friamhaichean
+					</seg>
+					<seg id="b.MAR.11.21" type="verse">
+						Is Peadar a cuimhneachadh, thuirt e ris: A Rabbi, seall, tha chraobh fhige, a mholluich thu, air seargadh as
+					</seg>
+					<seg id="b.MAR.11.22" type="verse">
+						Is Iosa freagairt, thuirt e riutha: Biodh creideamh Dhe agaibh
+					</seg>
+					<seg id="b.MAR.11.23" type="verse">
+						Gu deimhinn tha mi radh ribh, co sam bith a their ris a bheinn so ; Tog agus tilg thu fhein sa mhuir, agus aig nach bi teagamh na chridhe, ach a chreideas gun dianar ciod sam bith a their e, gum bi e diante dha
+					</seg>
+					<seg id="b.MAR.11.24" type="verse">
+						Air an aobhar sin tha mi ag radh ribh: Ge b` e ni dh` iarras sibh ann an urnaigh, creidibh gum faigh sibh e, is thig e gur n-ionnsuidh
+					</seg>
+					<seg id="b.MAR.11.25" type="verse">
+						`S nuair sheasas sibh a dhianamh urnaigh, mathaibh, ma tha dad agaibh an aghaidh duine sam bith los gum math ur n-Athair a tha air neamh ur peacannan fhein dhuibhse
+					</seg>
+					<seg id="b.MAR.11.26" type="verse">
+						Ach mur math sibh, cha mhua mhathas ur n-Athair a tha air neamh ur peacannan fhein dhuibhse
+					</seg>
+					<seg id="b.MAR.11.27" type="verse">
+						Agus thainig iad a rithist gu Ierusalem. `S nuair a bha e coiseachd san teampull, thainig na h-ard-shagairt, agus na Sgriobhaich, agus na seanairean ga ionnsuidh
+					</seg>
+					<seg id="b.MAR.11.28" type="verse">
+						Is thuirt iad ris; Ciod an t-ughdaras leis a bheil thu dianamh nan nithean so? is co thug an t-ughdaras so dhut gu bheil thu gan dianamh
+					</seg>
+					<seg id="b.MAR.11.29" type="verse">
+						Agus Iosa a freagairt, thuirt e riutha: Cuiridh mise aon cheist oirbh, agus freagraibh mi; agus innsidh mise dhuibhse ciod an t-ughdaras leis a bheil mi dianamnh nan nithean so
+					</seg>
+					<seg id="b.MAR.11.30" type="verse">
+						Baisteadh Eoin, an ann bho neamh, no bho dhaoine a bha e? Freagraibh mi
+					</seg>
+					<seg id="b.MAR.11.31" type="verse">
+						Ach smaoinich iadsan annta fhcin, ag radh: Ma their sinn: bho neamh, their e: Carson ma ta nach do chreid sibh e
+					</seg>
+					<seg id="b.MAR.11.32" type="verse">
+						Ma their sinn : bho dhaoine, tha eagal an t-sluaigh oirnn: oir sheall daoine uile air Eoin mar fhior fhaidh
+					</seg>
+					<seg id="b.MAR.11.33" type="verse">
+						`Sa freagairt thuirt iad ri Iosa: Chan eil fhios againn. Is thuirt Iosa riutha, `s e freagairt: Cha mhua dh` innseas mise dhuibhse ciod an t-ughdaras leis a bheil mi dianamh so
+					</seg>
+				</div>
+				<div id="b.MAR.12" type="chapter">
+					<seg id="b.MAR.12.1" type="verse">
+						Is thoisich e ri labhairt riutha ann an dubhfhacail: Phlanntaich duine araid fion-lios, is chuir e garadh mu thimcheall, is chladhaich e amar-fiona, is thog e tur, is shuidhich e air aonta do thuathanaich e, is dh` fhalbh e gu tir chein
+					</seg>
+					<seg id="b.MAR.12.2" type="verse">
+						Agus chuir e seirbhiseach thun na tuathanaich san am, los gu faigheadh e de thoradh an fhion-lios bhuapa
+					</seg>
+					<seg id="b.MAR.12.3" type="verse">
+						`Sa breith air, bhuail iad e, is chuir iad air falbh falamh e
+					</seg>
+					<seg id="b.MAR.12.4" type="verse">
+						Agus a rithist chuir e gan ionusuidh seirbhiseach eile; is lot iad sa cheann e, agus thug iad taire dha
+					</seg>
+					<seg id="b.MAR.12.5" type="verse">
+						`Sa rithist chuir e fear eile, `s mharbh iad e; agus moran eile: cuid dhiu sgiurs iad, ach cuid eile mharbh iad
+					</seg>
+					<seg id="b.MAR.12.6" type="verse">
+						Ach fhathast bha aona mhac ro-ghradhach aige, agus mu dheireadh uile chuir e esan gan ionnsuidh, ag radh: Bheir iad urram dham mhac
+					</seg>
+					<seg id="b.MAR.12.7" type="verse">
+						Ach thuirt na tuathanaich ri cheile: Se so an t-oighre: thigibh, marbhamaid e; agus bithidh an oighreachd againn fhein
+					</seg>
+					<seg id="b.MAR.12.8" type="verse">
+						`Sa breith air, mharbh iad e; is thug iad a mach as a gharadh-fhiona e
+					</seg>
+					<seg id="b.MAR.12.9" type="verse">
+						Ciod ma ta a ni tighearna a gharaidh-fhiona? Thig e, agus sgriosaidh e na tuathanaich sin; agus bheir e gharadh-fiona do dh` fheadhainn eile
+					</seg>
+					<seg id="b.MAR.12.10" type="verse">
+						Nach do leugh sibh an sgriobtur so: A chlach a dhiult na clachairean, rinneadh clach chinn na h-oisinn dhi
+					</seg>
+					<seg id="b.MAR.12.11" type="verse">
+						Leis an Tighearna rinneadh so, `s tha e iongantach ri fhaicinn
+					</seg>
+					<seg id="b.MAR.12.12" type="verse">
+						Agus dh` iarr iad a ghlacadh, ach bha eagal an t-sluaigh orra: oir thuig iad gum b` ann mun deidhinn fhein a labhair e an dubhfhacal so. Agus ga fhagail, dh` fhalbh iad
+					</seg>
+					<seg id="b.MAR.12.13" type="verse">
+						Is chuir iad ga ionnsuidh cuid de na Phairisich, agus de luchd-leanmhuinn Heroid, fiach an glacadh iad e `na chainnt
+					</seg>
+					<seg id="b.MAR.12.14" type="verse">
+						Thainig iadsan, is thuirt iad ris: A Mhaighistir, tha fios againn gur duine firinneach thu, `s nach eil eisimeil agad ri duine sam bith: oir cha sheall thu air pearsa dhaoine, ach tha thu teagasg slighe Dhe am firinn. Bheil e ceadaichte cis a thoirt do Chesar, no nach eil
+					</seg>
+					<seg id="b.MAR.12.15" type="verse">
+						Thuig esan am foill, is thuirt e riutha: Carson tha sibh gam bhuaireadh? Thoiribh dhomh sgilinn gus am faic mi i
+					</seg>
+					<seg id="b.MAR.12.16" type="verse">
+						Agus thug iad dha i. Is thuirt e riutha: Co leis an iomhaigh so, `s an sgriobhadh? Thuirt iad ris: Le Cesar
+					</seg>
+					<seg id="b.MAR.12.17" type="verse">
+						Is Iosa freagairt, thuirt e riutha: Thugaibh mata do Chesar na bhuineas do Chesar; `s do Dhia na bhuineas do Dhia. Agus ghabh iad ioghnadh as
+					</seg>
+					<seg id="b.MAR.12.18" type="verse">
+						Agus thainig na Sadusaich ga ionnsuidh, a tha cantuinn nach eil aiseirigh ann; is dh` fharraid iad dheth, ag rad
+					</seg>
+					<seg id="b.MAR.12.19" type="verse">
+						A mhaighistir, sgriobh Maois dhuinn, ma gheibh brathair duine bas, `s gum fag e bean, `s nach fhag e clann, gabhadh a bhrathair a bhean, `s togadh e clann dha bhrathair
+					</seg>
+					<seg id="b.MAR.12.20" type="verse">
+						A nis bha seachdnar bhraithrean ann `s ghabh a chiad fhear bean, agus chaochail e gun sliochd fhagail
+					</seg>
+					<seg id="b.MAR.12.21" type="verse">
+						Agus ghabh an darna fear i, agus chaochail esan `s cha mhua dh` fhag esan sliochd. Agus an treas fear mar an ciadna
+					</seg>
+					<seg id="b.MAR.12.22" type="verse">
+						Agus mar sin ghabh an t-seachdnar i; `s cha d` fhag iad sliochd. `Nan deigh uile dh` eug am boirionnach fhein
+					</seg>
+					<seg id="b.MAR.12.23" type="verse">
+						Anns an aiseirigh mata, nuair dheireas iad, co dhiu sin dham bi i `na mnaoi? oir bha i `na mnaoi aig an t-seachdnar
+					</seg>
+					<seg id="b.MAR.12.24" type="verse">
+						Agus fhreagair Iosa, is thuirt e riutha: Nach ann a thaobh seo a tha sibh a deanamh mearachd, nach eil eolas agaibh air na sgriobturan no air cumhachd Dhe
+					</seg>
+					<seg id="b.MAR.12.25" type="verse">
+						Oir nuair a dh` eireas iad bho na mairbh, cha phos iad, `s cha mhua phosar iad, ach tha iad mar na h-ainglean sna flathais
+					</seg>
+					<seg id="b.MAR.12.26" type="verse">
+						Agus a thaobh aiseirigh nam marbh, nach do leugh sibh an leabhar Mhaois, mar a labhair Dia ris anns a phreas, ag radh: Is mise Dia Abrahaim, agus Dia Isaic, agus Dia Iocoib
+					</seg>
+					<seg id="b.MAR.12.27" type="verse">
+						Cha Dia nam marbh e, ach nam beo. Tha sibhse uime sin a dol fada cearr
+					</seg>
+					<seg id="b.MAR.12.28" type="verse">
+						Is thainig fear de na Sgriobhaich, a chuala iad a consachadh, `sa faicinn gur math a fhreagair e iad, dh` fharraid e dheth: ciod i a chiad fhainte dhiu uile
+					</seg>
+					<seg id="b.MAR.12.29" type="verse">
+						Is fhreagair Iosa e: Gum b` i a chiad fhainte dhiu uile: Eisd, Israel: is aon Dia an Tighearna do Dhia 
+					</seg>
+					<seg id="b.MAR.12.30" type="verse">
+						Agus bheir thu gaol don Tighearna do Dhia le t-uile chridhe, agus le t-uile anam, agus le t-uile inntinn, agas le t-uile neart. Se so a chiad fhainte
+					</seg>
+					<seg id="b.MAR.12.31" type="verse">
+						Agus tha an darna fainte coltach rithe : Bheir thu gaol dhad choimhearsnach mar dhut fhein. Nas mua na iad so chan eil fainte eile ann
+					</seg>
+					<seg id="b.MAR.12.32" type="verse">
+						Is thuirt an sgriobhach ris: Is math, a Mhaighistir, a labhair thu an fhirinn, gu bheil aon Dia ann, `s nach eil ann ach e
+					</seg>
+					<seg id="b.MAR.12.33" type="verse">
+						`S gur e gaol thoirt dha leis an uile chridhe, `s leis an uile anam, `s leis an uil` inntinn, agus leis an uile neart ; agus gaol a thoirt do choimhearsnach mar do dhuine fhein, is mua na gach iobairt uile-loisgte agus tobhartas eile
+					</seg>
+					<seg id="b.MAR.12.34" type="verse">
+						Agus Iosa faicinn, gur glic a fhreagair e, thuirt e ris: Chan eil thu fada bho rioghachd Dhe. Is bho sin suas cha robh chridhe aig duine ceisd a chur air
+					</seg>
+					<seg id="b.MAR.12.35" type="verse">
+						Is thuirt Iosa, `s e freagairt nuair bha e teagasg san teampull: Ciamar tha na Sgriobhaich a cantuinn gur e Criosda mac Dhaibhidh
+					</seg>
+					<seg id="b.MAR.12.36" type="verse">
+						Oir tha Daibhidh fhein a cantuinn leis an Spiorad Naomh: Thuirt an Tighearna ri mo Tighearna, suidh air mo laimh dheis, gus an cuir mi do naimhidean nan stol-chas dhut
+					</seg>
+					<seg id="b.MAR.12.37" type="verse">
+						Tha Daibhidh fhein mata a cantuinn a Thighearna ris, agus ciamar mata is e a mhac? Is dh` eisd moran sluaigh ris gu deonach
+					</seg>
+					<seg id="b.MAR.12.38" type="verse">
+						Is thuirt e riutha `na theagasg: Thugaibh an aire oirbh fhein bho na Sgriobhaich leis an toil imeachd an culaidhean fada, agus furan fhaighinn air a mhargadh
+					</seg>
+					<seg id="b.MAR.12.39" type="verse">
+						Agus suidhe air na ciad chathraichean anns na sinagogan, `s air na ciad shuidheachain aig suipeirean
+					</seg>
+					<seg id="b.MAR.12.40" type="verse">
+						A shluigeas tighean bhantrach air sgath urnaighean fada: gheibh iad sin binn nas cruaidhe
+					</seg>
+					<seg id="b.MAR.12.41" type="verse">
+						`S nuair a bha Iosa `na shuidhe mu choinneamh tasgaidh an iuntais, chunnaic e mar bha `n sluagh a tilgeadh airgid san tasgaidh, agus chuir moran de dhaoine beartach na h-uibhir innte
+					</seg>
+					<seg id="b.MAR.12.42" type="verse">
+						Agus thainig bantrach bhochd, is chuir i da lethfheoirlinn, se sin fairdein, innte
+					</seg>
+					<seg id="b.MAR.12.43" type="verse">
+						`Sa gairm a dheisciopul, thuirt e riutha: Gu deimhinn tha mi ag radh ribh, gun do chuir a bhantrach bhochd so barrachd na iadsan uile, a chuir anns an tasgaidh
+					</seg>
+					<seg id="b.MAR.12.44" type="verse">
+						Oir `s ann bho am mor-phailteas a chuir iadsan uile ann; ach `sann bho h-uireasuidh a chuir ise, a beo-shlainte uile
+					</seg>
+				</div>
+				<div id="b.MAR.13" type="chapter">
+					<seg id="b.MAR.13.1" type="verse">
+						`S nuair a bha e dol a mach as an teampull thuirt fear dhe dheisciopuil ris: A Mhaighistir, seall! nach breagha na clachan agus na togalaichean seo
+					</seg>
+					<seg id="b.MAR.13.2" type="verse">
+						Is fhreagair Iosa, is thuirt e ris: Bheil thu faicinn na togalaichean mora seo uile? Chan fhagar clach air muin cloiche nach tilgear sios
+					</seg>
+					<seg id="b.MAR.13.3" type="verse">
+						`S nuair a bha e `na shuidhe air sliabh Olibheit, mu choinneamh an teampuill, chuir Peadar is Seumas, is Anndra ceisd air, is iad leo fhein comhla ris
+					</seg>
+					<seg id="b.MAR.13.4" type="verse">
+						Innis dhuinn cuin a thachras na nithean sin? agus de an comharradh a bhios ann, nuair a thoisicheas na nithean sin uile rin coimhlionadh
+					</seg>
+					<seg id="b.MAR.13.5" type="verse">
+						Is Iosa freagairt thoisich e ri radh riutha: Seallaibh nach meall duine sam bith sib
+					</seg>
+					<seg id="b.MAR.13.6" type="verse">
+						Oir thig moran nam ainm-se, ag radh: Is mise e; agus meallaidh iad moran
+					</seg>
+					<seg id="b.MAR.13.7" type="verse">
+						Agus nuair a chluinneas sibh mu chogaidhean, agus sgialan mu chogaidhean, na gabhaibh eagal: oir s`fheudar do na nithean sin tachairt: ach chan eil a chrioch ann fhathast
+					</seg>
+					<seg id="b.MAR.13.8" type="verse">
+						Oir eiridh cinneadh an aghaidh cinnidh, agus rioghachd an aghaidh rioghachd, is bithidh crithean-talmhuinn an siod `s a so, agus gorta. `Siad sin toiseachd nan amhghar
+					</seg>
+					<seg id="b.MAR.13.9" type="verse">
+						Ach seallaibhse ribh fhein. Oir liubhraidh iad seachad sibh do chomhairlean, agus sgiursar sibh sna sinagogan, agus seasaidh sibh air bialaobh uachdarain is righrean as mo lethse, mar fhianais dhaibhsan
+					</seg>
+					<seg id="b.MAR.13.10" type="verse">
+						Is feumar an soisgeul a theagasg an toiseach am measg nan cinneach uile
+					</seg>
+					<seg id="b.MAR.13.11" type="verse">
+						Agus nuair a bhios iad gur tarruinn leo, `s gur liubhairt seachad, na smaoinichibh air ciod a their sibh; ach an ni bheirear dhuibh san uair sin fhein, labhraibh, oir cha sibhse a tha labhairt, ach an Spiorad Naomh
+					</seg>
+					<seg id="b.MAR.13.12" type="verse">
+						Agus liubhraidh brathair brathair gu bas, agus an t-athair am mac; is eiridh clann an aghaidh am parantan, agus cuiridh iad gu bas iad
+					</seg>
+					<seg id="b.MAR.13.13" type="verse">
+						Agus bithidh fuath aig daoine uile oirbh as leth m`ainmse. Ach is esan a sheasas buan thun na criche a bhios sabhailte
+					</seg>
+					<seg id="b.MAR.13.14" type="verse">
+						Agus nuair a chi sibh grainealachd an leirsgrios `na seasamh far nach bu choir dhi, am fear a leughas tuigeadh e: an sin teicheadh iadsan a tha ann an Iudea thun nam beann
+					</seg>
+					<seg id="b.MAR.13.15" type="verse">
+						`S am fear a tha air mullach an tighe, na tearnadh e don tigh, `s na rachadh e stigh gu dad a thogail leis as a thigh
+					</seg>
+					<seg id="b.MAR.13.16" type="verse">
+						`S am fear a bhitheas san achadh, na tilleadh e air ais gus `aodach a thoirt leis
+					</seg>
+					<seg id="b.MAR.13.17" type="verse">
+						Ach mo thruaighe iadsan a tha lethtromach `sa toirt ciche sna laithean sin
+					</seg>
+					<seg id="b.MAR.13.18" type="verse">
+						Ach guidhibh nach tachair iad so sa gheamhradh
+					</seg>
+					<seg id="b.MAR.13.19" type="verse">
+						Oir anns na laithean sin bithidh amghairean ann nach robh an leithid ann bho thus a chruthachaidh, a rinn Dia, gu so, `s nach bi
+					</seg>
+					<seg id="b.MAR.13.20" type="verse">
+						Agus mur a giorraicheadh an Tighearna na laithean sin, cha bhiodh duine sam bith tiaruinte: ach air son nan daoine taghte, a thagh e, giorraichidh e na laithean sin
+					</seg>
+					<seg id="b.MAR.13.21" type="verse">
+						Agus an sin ma their neach sam bith ribh: Seall, tha Criosda an so, seall, tha e sin, na creidibh e
+					</seg>
+					<seg id="b.MAR.13.22" type="verse">
+						Oir eiridh criosdan breige, agus faidhean-breige, is ni iad comharran agus beartan iongantach, gus, nam faodadh e bhith, mhealladh iad na daoine taghte fhein
+					</seg>
+					<seg id="b.MAR.13.23" type="verse">
+						Thugaibhse mata an aire: seall, dh` innis mi dhuibh gach ni ro-laimh
+					</seg>
+					<seg id="b.MAR.13.24" type="verse">
+						Ach anns na laithean sin an deigh na trioblaide sin, thig dorchadas air a ghrein, `s cha toir a ghealach a solus
+					</seg>
+					<seg id="b.MAR.13.25" type="verse">
+						Agus bithidh reultan neamh a tuiteam, agus gluaisear na cumhachdan a tha sna flathais
+					</seg>
+					<seg id="b.MAR.13.26" type="verse">
+						Agus an sin chi iad Mac an duine sna neoil le cumhachd mhoir agus le gloir
+					</seg>
+					<seg id="b.MAR.13.27" type="verse">
+						An sin cuiridh e ainglean a mach, is crunnichidh e a dhaoine taghte bho na ceithir gaoithean bho iomall an talmhuinn gu iomall neamh
+					</seg>
+					<seg id="b.MAR.13.28" type="verse">
+						A nis ionnnsuichibh dubhfhacal bhon chraoibh-fhige. Nuair a bhios a miar a nis maoth, `sa chinneas an duilleach, tha fios agaibh gu bheil an samhradh gle fhaisg
+					</seg>
+					<seg id="b.MAR.13.29" type="verse">
+						Mar an ciadna sibhse, nuair a chi sibh na nithean so a tachairt, tuigibh gu bheil e gle dhluth, seadh aig na dorsan
+					</seg>
+					<seg id="b.MAR.13.30" type="verse">
+						Gu firinneach tha mi ag radh ribh nach teid an ginealach so seachad, gus an tachair so uile
+					</seg>
+					<seg id="b.MAR.13.31" type="verse">
+						Theid neamh agus talamh seachad, ach cha teid m` fhacalsa seachad
+					</seg>
+					<seg id="b.MAR.13.32" type="verse">
+						Ach air an latha no air an uair sin chan eil fios aig duine sam bith, no aig na h-ainglean air neamh, no aig a Mhac, ach aig an Athair
+					</seg>
+					<seg id="b.MAR.13.33" type="verse">
+						Thugaibh an aire, dianaibh faire agus urnaigh: Oir chan eil fhios agaibh cuin a bhios an t-am
+					</seg>
+					<seg id="b.MAR.13.34" type="verse">
+						Tha e ri choltachadh ri duine a dol fad air astar a dh` fhag a thigh, `sa thug cumhachd dha sheirbhisich thairis air gach obair, `sa dh` aithn` air an dorsair faire a dhianamh
+					</seg>
+					<seg id="b.MAR.13.35" type="verse">
+						Dianaibhse faire mata, (chionn `s nach eil fhios agaibh cuin a thig maighistir an tighe: co dhiu sann anmoch, no mu mhiadhon oidhche, no mu ghairm a choilich, no sa mhaduinn)
+					</seg>
+					<seg id="b.MAR.13.36" type="verse">
+						Eagal gun tig e gu h-obann, `s gum faigh e sibh nur cadal
+					</seg>
+					<seg id="b.MAR.13.37" type="verse">
+						Agus na tha mi cantuinn ribhse, tha mi cantuinn ri daoine uile: Dianaibh faire
+					</seg>
+				</div>
+				<div id="b.MAR.14" type="chapter">
+					<seg id="b.MAR.14.1" type="verse">
+						A nis bha feill na casga `s an arain neo-ghoirtichte an ceann da latha: is bha na h-ard-shagairt,`s na Sgriobhaich a sireadh ciamar a ghlacadh iad e le foill, sa mharbhadh iad e
+					</seg>
+					<seg id="b.MAR.14.2" type="verse">
+						Ach thuirt iad: Chan ann air latha na feille, eagal buaireas eirigh ma dh` fhaoidte am measg an t-sluaigh
+					</seg>
+					<seg id="b.MAR.14.3" type="verse">
+						`S nuair a bha e ann am Bethania an tigh Shimoin an lobhar, `sa bha e aig biadh, thainig boirionnach aig an robh bocsa alabastair de dh` ola phriseil spicnaird, `sa bristeadh a bhocsa alabastair, thaom i air a cheann i
+					</seg>
+					<seg id="b.MAR.14.4" type="verse">
+						A nis bha cuid a bha diumbach unnta fhein, ag radh : Carson a rinneadh am milleadh so air an ola
+					</seg>
+					<seg id="b.MAR.14.5" type="verse">
+						Oir dh` fhaoidte an ola so reic air son corr is tri fichead sgilinn, `s an toirt do na bochdan. Agus rinn iad monmhur `na h-aghaidh
+					</seg>
+					<seg id="b.MAR.14.6" type="verse">
+						Ach thuirt Iosa: Leigibh leatha, carson tha sibh a cur dragh oirre? Rinn i deagh ghniomh ormsa
+					</seg>
+					<seg id="b.MAR.14.7" type="verse">
+						Oir tha na bochdan daonnan agaibh; is faodaidh sibh math a dhianamh dhaibh, nuair a thoilicheas sibh: ach cha bhith mise daonnan agaibh
+					</seg>
+					<seg id="b.MAR.14.8" type="verse">
+						Rinn i na b`urrainn dhi: thainig i ro-laimh a dh` ungadh mo chuirp air son an adhlaic
+					</seg>
+					<seg id="b.MAR.14.9" type="verse">
+						Gu firinneach tha mi gradh ribh :ge b` e aite an teid an soisgeul so a shearmonachadh feadh an t-saoghail uile, gun innsear na rinn i mar chuimhneachan oirre
+					</seg>
+					<seg id="b.MAR.14.10" type="verse">
+						Is dh` fhalbh Iudas Iscariot, fear de na dha dhiag, a dh` ionnsuidh nan ard-shagart, gus a bhrath dhaibh
+					</seg>
+					<seg id="b.MAR.14.11" type="verse">
+						Air dhaibhsan so a chluinntinn, rinn iad toileachadh; agus gheall iad airgiod a thoirt dha. Is bha esan a siredh ciamar gheibheadh e cothrom air a bhrath
+					</seg>
+					<seg id="b.MAR.14.12" type="verse">
+						`S air a chiad latha den aran neo-ghoirtichte, nuair bha iad ag iobradh na casga, thuirt a dheisciopuil ris: Caite an aill leat sinn a dhol, los gun deasaich sinn dhut, `s gun ith thu a chaisg
+					</seg>
+					<seg id="b.MAR.14.13" type="verse">
+						Agus chuir e dithis dhe dheisciopuil, agus thuirt e riutha: Rachaibh a stigh don bhaile is tachraidh duine oirbh a giulan saghach uisge, leanaibh e
+					</seg>
+					<seg id="b.MAR.14.14" type="verse">
+						Agus ge b` e aite an teid e stigh, abraibh ri fear an tighe gu bheil am maighistir ag radh: Caite a bheil mo sheomar-bidh, far an ith mi a chaisg comhla rim dheisciopuil
+					</seg>
+					<seg id="b.MAR.14.15" type="verse">
+						Agus fiachaidh e dhuibh seomar-bidh farsuinn lan-uidheamaichte; deasaichibh an sin dhuinn
+					</seg>
+					<seg id="b.MAR.14.16" type="verse">
+						Is dh` fhalbh a dheisciopuil, agus thainig iad dhan bhaile, agus fhuair iad mar a thuirt e riutha, agus dheasaich iad a chaisg
+					</seg>
+					<seg id="b.MAR.14.17" type="verse">
+						Agus na thainig am feasgar, rainig e leis na dha dhiag
+					</seg>
+					<seg id="b.MAR.14.18" type="verse">
+						Agus nuair a bha iad nan suidhe aig a bhord, `s ag ithe, thuirt Iosa: Gu firinneach tha mi ag radh ribh, gum brath fear agaibh, a th` ag ithe maille rium, mi
+					</seg>
+					<seg id="b.MAR.14.19" type="verse">
+						Agus thoisich iadsan ri bhith muladach, `s gach aon ri radh mu seach ris: Am mise e
+					</seg>
+					<seg id="b.MAR.14.20" type="verse">
+						Is thuirt e riutha: Se am fear den da fhear dhiag a tha tumadh a laimh comhla rium sa mheis
+					</seg>
+					<seg id="b.MAR.14.21" type="verse">
+						`S gu deimhinn tha Mac an duine a falbh, mar a tha e sgriobhte mu dheidhinnn: ach mo thruaighe an duine sin leis am brathar Mac an duine: bu mhath dhan duine sin nach do rugadh riamh e
+					</seg>
+					<seg id="b.MAR.14.22" type="verse">
+						`S nuair a bha iad ag ithe, ghlac Iosa aran; `s ga bheannachadh, bhrist e , agus thug e dhaibh e, is thuirt e: Gabhaibh, se so mo chorpsa
+					</seg>
+					<seg id="b.MAR.14.23" type="verse">
+						Agus ghlac e chailis, `sa toirt taing thug e dhaibh i; is dh` ol iad uile dhi
+					</seg>
+					<seg id="b.MAR.14.24" type="verse">
+						Is thuirt e riutha: Si so m` fhuil-sa an tiomnaidh nuaidh a dhoirtear air son morain
+					</seg>
+					<seg id="b.MAR.14.25" type="verse">
+						Gu deimhinn tha mi ag radh ribh, nach ol mi a so suas de thoradh na fionain, gus an latha sin air an ol mi ur e ann an rioghachd Dhe
+					</seg>
+					<seg id="b.MAR.14.26" type="verse">
+						`S nuair a sheinn iad laoidh, chaidh iad a mach gu sliabh Olibheit
+					</seg>
+					<seg id="b.MAR.14.27" type="verse">
+						Is thuirt Iosa riutha: Gabhaidh sibh uile sgainneal asam-sa air an oidhche nochd oir tha e sgriobhte: Buailidh mi am buachaille is sgapar na caoraich
+					</seg>
+					<seg id="b.MAR.14.28" type="verse">
+						Ach an deigh m` aiseirigh gabhaidh mi roimhibh do Ghalile
+					</seg>
+					<seg id="b.MAR.14.29" type="verse">
+						Ach thuirt Peadar ris: Ged ghabhadh iad uile sgainneal asad, cha ghabh mise
+					</seg>
+					<seg id="b.MAR.14.30" type="verse">
+						Agus thuirt Iosa ris: Gu deimhinn tha mi ag radh riut, an diugh fhein air an oidhche nochd, mun goir an coileach da uair, gun aicheadh thu mi tri uairean
+					</seg>
+					<seg id="b.MAR.14.31" type="verse">
+						Ach `sann an sin bu dana a labhair e: Ged b` fheudar dhomh am bas fhulang maille riut, chan aicheadh mi thu. Agus an ni ciadna thuirt iad uile
+					</seg>
+					<seg id="b.MAR.14.32" type="verse">
+						Agus thainig iad gu fearann ris an canar Gethsemani. Is thuirt e ri dheisciopuil: Suidhibh an so gus an dian mi urnaigh
+					</seg>
+					<seg id="b.MAR.14.33" type="verse">
+						Agus thug e leis Peadar, is Seumas, is Eoin; agus bha e fo amhghar agus fo imcheist ro-mhor
+					</seg>
+					<seg id="b.MAR.14.34" type="verse">
+						Is thuirt e riutha: Tha m` anam bronach gu ruig am bas : fanaibh an so, is dianaibh faire
+					</seg>
+					<seg id="b.MAR.14.35" type="verse">
+						`Sa dol ceum air adhart, thuit e air an talamh; is ghuidh e, nam faodadh e bhith, gun rachadh an uair seachad air
+					</seg>
+					<seg id="b.MAR.14.36" type="verse">
+						Is thuirt e: Abba Athair, tha a h-uile ni nad chomas, cuir a chailis so seachad orm, ach chan e nas aill leamsa, ach nas aill leatsa
+					</seg>
+					<seg id="b.MAR.14.37" type="verse">
+						Agus thainig e, `is fhuair e iad `nan cadal. Is thuirt e ri Peadar: A Shimoin, a bheil thu nad chadal? nach burrainn dhut aon uair a chaithris
+					</seg>
+					<seg id="b.MAR.14.38" type="verse">
+						Dianaibh faire agus urnaigh, chum nach tuit sibh ann am buaireadh. Tha an spiorad gu dearbh deonach, ach than fheoil lag
+					</seg>
+					<seg id="b.MAR.14.39" type="verse">
+						`Sa falbh a rithist rinn e urnaigh, a cantuinn nam briathran ciadna
+					</seg>
+					<seg id="b.MAR.14.40" type="verse">
+						`Sa tilleadh, fhuair e rithist iad `nan cadal (oir bha an suilean trom), agus cha robh fios aca de a chanadh iad ris
+					</seg>
+					<seg id="b.MAR.14.41" type="verse">
+						Agus thainig e an treas uair, is thuirt e riutha: Caidlibh a nis, agus gabhaibh fois. Foghnaidh sin: th` an uair air tighinn : seall, liubhrar Mac an duine do lamhan pheacach
+					</seg>
+					<seg id="b.MAR.14.42" type="verse">
+						Eiribh, falbhamaid, seall, tha esan a bhrathas mi faisg
+					</seg>
+					<seg id="b.MAR.14.43" type="verse">
+						Bha e fhathast a labhairt, nuair thainig Iudas Iscariot fear de na dha dhiag, agus moran sluaigh comhla ris le claidhean, `s le bataichean, bho na h-ard-shagairt, agus na Sgriobhaich, `s na seanairean
+					</seg>
+					<seg id="b.MAR.14.44" type="verse">
+						Agus bh` am brathadair air comharradh a thoirt dhaibh, ag radh: Ge b` e neach dhan toir mise pog, se sin e, beiribh air, agus thugaibh leibh e gu curamach
+					</seg>
+					<seg id="b.MAR.14.45" type="verse">
+						`S nuair a rainig e, ghrad-chaidh e ga ionnsuidh, is thuirt e: Failt ort, a Mhaighistir; agus phog e e
+					</seg>
+					<seg id="b.MAR.14.46" type="verse">
+						Agus chuir iadsan an lamhan air, agus chum iad e
+					</seg>
+					<seg id="b.MAR.14.47" type="verse">
+						Ach tharruinn aon den fheadhainn a bha san lathair a chlaidheamh, agus bhuail e seirbhiseach an ard-shagairt, agus ghearr e chluas dheth
+					</seg>
+					<seg id="b.MAR.14.48" type="verse">
+						Agus Iosa a freagairt, thuirt e riutha: An tainig sibh a mach le claidhean `s le bataichean gu mise ghlacadh, mar gum bu mheirleach mi
+					</seg>
+					<seg id="b.MAR.14.49" type="verse">
+						Bha mi a teagasg san teampull comhla ribh a h-uile latha, agus cha do ghlac sibh mi. Ach `sann gus na sgriobturan a choimhlionadh a tha so
+					</seg>
+					<seg id="b.MAR.14.50" type="verse">
+						An sin a dheisciopuil ga threigsnin, theich iad uile
+					</seg>
+					<seg id="b.MAR.14.51" type="verse">
+						Ach lean duin` og araid e air eideadh le lion-anart thairis air a choluinn ruisgte; agus rinn iad greim air
+					</seg>
+					<seg id="b.MAR.14.52" type="verse">
+						Ach esan a tilgeadh dheth an lion-anairt, theich e bhuapa ruisgte
+					</seg>
+					<seg id="b.MAR.14.53" type="verse">
+						Is thug iad leo Iosa, thun an ard-shagairt; agus chruinnich na sagairt uile, agus na Sgriobhaich, agus na seanairean
+					</seg>
+					<seg id="b.MAR.14.54" type="verse">
+						Agus lean Peadar e fad as, gu ruig cuirt an ard-shagairt; `s bha e `na shuidhe maille ris na seirbhisich aig an teine, agus ga gharadh fhein
+					</seg>
+					<seg id="b.MAR.14.55" type="verse">
+						Agus dh` iarr na h-ard-shagairt, `sa chomhairle uile, fianais an aghaidh Iosa, gus a chuir gu bas, agus cha d`fhuair iad sin
+					</seg>
+					<seg id="b.MAR.14.56" type="verse">
+						Oir bha moran a toirt fianuise-breige `na aghaidh: ach cha robh an teisteanas a cordadh
+					</seg>
+					<seg id="b.MAR.14.57" type="verse">
+						Agus bha cuid a dh` eirich suas, `sa thog fianuis-bhreige na aghaidh, ag radh
+					</seg>
+					<seg id="b.MAR.14.58" type="verse">
+						Chuala sinn e ag radh: Leagaidh mi an teampull so a rinneadh le lamhan, agus an tri latha togaidh mi fear eile nach d` rinneadh le lamhan
+					</seg>
+					<seg id="b.MAR.14.59" type="verse">
+						Is cha robh an teisteanas acasan a cordadh
+					</seg>
+					<seg id="b.MAR.14.60" type="verse">
+						Agus an t-ard-shagart ag eirigh nam miadhon, cheasnaich e Iosa, ag radh: Nach toir thu freagairt sam bith air na nithean a tha iad so a cur as do leth
+					</seg>
+					<seg id="b.MAR.14.61" type="verse">
+						Ach dh` fhan esan na thosd, agus cha tuirt e guth. Agus dh` fharraid an t-ard-shagart dheth rithist, is thuirt e ris: An tu an Chiosda, Mac an De bheannaichte
+					</seg>
+					<seg id="b.MAR.14.62" type="verse">
+						Is thuirt Iosa ris: Is mi; agus chi sibh Mac an duine `na shuidhe air deas laimh cumhachd Dhe, `sa tighinn air neoil nan speur
+					</seg>
+					<seg id="b.MAR.14.63" type="verse">
+						An sin an t-ard-shagart a stracadh `eididh, thuirt e: Ciod am feum thagainn tuilleadh air fianuisean
+					</seg>
+					<seg id="b.MAR.14.64" type="verse">
+						Chuala sibh am blaisbheum: De ur barail? Dhit iad uile e mar fhear toillteanach air bas
+					</seg>
+					<seg id="b.MAR.14.65" type="verse">
+						Agus theann cuid ri caitheamh smugaidean air, `s ri comhdach `aodainn, `s ri bualadh dhorn air, `s ri radh ris: Faisnich; agus bhuail na seirbhisich lem basan e
+					</seg>
+					<seg id="b.MAR.14.66" type="verse">
+						`S nuair a bha Peadair gu h-iosal anns a chuirt, thainig te de shearbhantan an ard-shagairt
+					</seg>
+					<seg id="b.MAR.14.67" type="verse">
+						`S nuair a chunnaic i Peadar ga gharadh fhein, a gabhail beachd air, thuirt i: Bha thusa cuideachd comhla ri Iosa bho Nasareth
+					</seg>
+					<seg id="b.MAR.14.68" type="verse">
+						Ach dh`aicheadh esan, ag radh: Chan aithne dhomh agus cha mhua tha mi tuigsinn ciod tha thu ag radh. Agus dh`fhalbh e mach gu bialaobh na cuirte, agus ghoir an coiloach
+					</seg>
+					<seg id="b.MAR.14.69" type="verse">
+						Agus a rithist nuair chunnaic searbhanta e, thoisich i ri innse don fheadhainn a bha nan seasamh mun cuairt: `Sann dhiu am fear so
+					</seg>
+					<seg id="b.MAR.14.70" type="verse">
+						Is dh` aicheadh esan a rithist. Agus an ceann tacain, thuirt iadsan a bha san lathair a rithist ri Peadar: Sann dhiu thu gu cinnteach: oir is Galileach thu
+					</seg>
+					<seg id="b.MAR.14.71" type="verse">
+						Ach thoisich esan ri mollachadh `s ri mionnachadh: Chan aithne dhomh an duine so mu bheil sibh a labhairt
+					</seg>
+					<seg id="b.MAR.14.72" type="verse">
+						Agus anns a cheart uair ghoir an coileach a rithist. Is chuimhnich Peadar air an fhacal, a thuirt Iosa ris: Mun goir an coileach da uair, aicheadhaidh thu mi tri uairean. Agus thoisich e air gal
+					</seg>
+				</div>
+				<div id="b.MAR.15" type="chapter">
+					<seg id="b.MAR.15.1" type="verse">
+						Agus cho luath sa bha mhaduinn ann, chuir na h-ard-shagairt, `s na seannairean `s na Sgriobhaich, `sa chomhairle uile, an comhairle ri cheile, agus cheangail iad Iosa, agus thug iad leo e, agus liubhair iad e do Philat
+					</seg>
+					<seg id="b.MAR.15.2" type="verse">
+						Is dh` fharraid Pilat dheth: An tu Righ nan Iudhach? Agus Iosa a freagairt, thuirt e ris: Tha thu ga radh
+					</seg>
+					<seg id="b.MAR.15.3" type="verse">
+						Agus bha na h-ard-shagairt a cur iomadh cuis as a leth
+					</seg>
+					<seg id="b.MAR.15.4" type="verse">
+						Is dh` fharraid Pilat a rithist dheth, ag radh: Nach toir thu freagairt sam bith? seall a liuthad ni tha iad a cur nad aghaidh
+					</seg>
+					<seg id="b.MAR.15.5" type="verse">
+						Ach cha do fhreagair Iosa tuilleadh, air sheol `s gun do ghabh Pilat ioghnadh
+					</seg>
+					<seg id="b.MAR.15.6" type="verse">
+						A nis air latha na feille b` abhuist dha leigeil mu sgaoil dhaibh aon sam bith dhe na priosanaich, a dh` iarradh iad
+					</seg>
+					<seg id="b.MAR.15.7" type="verse">
+						Agus bha fear ann, dham b`ainm Barabbas, a chuireadh am priosan comhla ri luchd-ceannairc, agus a bha air murt a dhianamh ann an ceannairc
+					</seg>
+					<seg id="b.MAR.15.8" type="verse">
+						Agus nuair a dhirich an sluagh suas, thosich iad ri iarraidh air, e dheanamh dhaibh mar a chleachd e
+					</seg>
+					<seg id="b.MAR.15.9" type="verse">
+						Agus fhreagair Pilat iad, `s thuirt e: An aill leibh gun leig mi as dhuibh righ nan Iudhach
+					</seg>
+					<seg id="b.MAR.15.10" type="verse">
+						Oir bha fios aige gum b` ann tromh fharmad a liubhair na h-ard-shagairt seachad e
+					</seg>
+					<seg id="b.MAR.15.11" type="verse">
+						Ach bhrosnaich na h-ard-shagairt an sluagh, gun leigeadh e Barabbas mu sgaoil dhaibh mar raghainn
+					</seg>
+					<seg id="b.MAR.15.12" type="verse">
+						Agus fhreagair Pilat a rithist, is thuirt e riutha: Ciod ma ta is aill leibh mi dhianamh ri righ nan Iudhach
+					</seg>
+					<seg id="b.MAR.15.13" type="verse">
+						Ach ghlaodh iad a rithist: Ceus e
+					</seg>
+					<seg id="b.MAR.15.14" type="verse">
+						Is thuirt Pilat riutha: Ciod an t-olc a rinn e? Ach sann is mua ghlaodh iad: Ceus e
+					</seg>
+					<seg id="b.MAR.15.15" type="verse">
+						Agus bho na bha Pilat deonach an sluagh a thoileachadh, leig e Barabbas mu sgaoil dhaibh, `s an deigh Iosa sgiursadh, thug e seachad e, gus a cheusadh
+					</seg>
+					<seg id="b.MAR.15.16" type="verse">
+						Ach thug na saighdearan leo e a stigh gu cuairt an uachdrain, (ris an canar am Praetorium), is ghairm iad am buidheann uile
+					</seg>
+					<seg id="b.MAR.15.17" type="verse">
+						Agus dh` eid iad e le purpur, `sa fighe crun dreighinn chuir iad air e
+					</seg>
+					<seg id="b.MAR.15.18" type="verse">
+						Agus thoisich iad air furan a chur air, ag radh: Failt, a righ nan Iudhach
+					</seg>
+					<seg id="b.MAR.15.19" type="verse">
+						Is bhuail iad a cheann le cuilc; agus thilg iad smugaidean air, `sa lubadh an glun, thug iad aoradh dha
+					</seg>
+					<seg id="b.MAR.15.20" type="verse">
+						Agus an deigh dhaibh magadh air, thug iad dheth am purpur, is chuir iad aodach fhein air, agus thug iad leo e gus a cheusadh
+					</seg>
+					<seg id="b.MAR.15.21" type="verse">
+						Agus rug iad air fear a bha dol seachad, Simon bho Chirene, athair Alastair agus Rufuis, a bha tighinn as an duthaich, agus thug iad air a chrois a ghiulan
+					</seg>
+					<seg id="b.MAR.15.22" type="verse">
+						Agus thug iad e gu aite ris an canar Golgotha, se sin air eadar-theangachadh, aite Chalbhari
+					</seg>
+					<seg id="b.MAR.15.23" type="verse">
+						Agus thug iad dha ri ol fion measgte le mirr; agus cha do ghabh e e
+					</seg>
+					<seg id="b.MAR.15.24" type="verse">
+						Agus air dhaibh a cheusadh, roinn iad aodach, a tilgeadh chrann air, fiach de a gheibheadh gach aon
+					</seg>
+					<seg id="b.MAR.15.25" type="verse">
+						Agus bi an treasamh uair a bh` ann, agus cheus iad e
+					</seg>
+					<seg id="b.MAR.15.26" type="verse">
+						`S bha chuis-dhitidh sgriobhte os a chionn: RIGH NAN IUDHACH
+					</seg>
+					<seg id="b.MAR.15.27" type="verse">
+						Agus cheus iad da mheirleach comhla ris, fear air a laimh dheis, is fear air a laimh chli
+					</seg>
+					<seg id="b.MAR.15.28" type="verse">
+						Agus choimhlionadh an sgriobtur, a tha ag radh: Agus bha e air a mheas am measg nan eucorach
+					</seg>
+					<seg id="b.MAR.15.29" type="verse">
+						Agus thug iadsan a bha dol seachad toibheum dha, a crathadh an cinn, `s ag radh: O thusa, a 1eagas an teampull, `sa thogas e rithist ann an tri latha
+					</seg>
+					<seg id="b.MAR.15.30" type="verse">
+						Teasraig thu fhein agus thig a nuas bhon chrois
+					</seg>
+					<seg id="b.MAR.15.31" type="verse">
+						Mar an ciadna bha na h-ard-shagairt a magadh air, agus maille ris na Sgriobhaich a cantuinn ri cheile: Shabhail e feadhainn eile, e fhein chan urrainn e shabhaladh
+					</seg>
+					<seg id="b.MAR.15.32" type="verse">
+						Thigeadh Criosda righ Israil a nuas a nis bhon chrois, chum gum faic agus gun creid sinn. Is rinn iadsan, a cheusadh maille ris, taire air
+					</seg>
+					<seg id="b.MAR.15.33" type="verse">
+						`S nuair a thainig an t-siathamh uair, bha dorchadas air an talamh gus an naoitheamh uair
+					</seg>
+					<seg id="b.MAR.15.34" type="verse">
+						Agus aig an naoitheamh uair dh` eigh Iosa le guth ard, ag radh: Eloi, Eloi, lamma sabacthani? se sin air eadar-theangachadh: Mo Dhia, mo Dhia, carson a threig thu mi
+					</seg>
+					<seg id="b.MAR.15.35" type="verse">
+						Agus thuirt cuid den fheadhainn a bha `nan seasamh mun cuairt, nuair a chual iad e: Seall, tha e gairm Eliais
+					</seg>
+					<seg id="b.MAR.15.36" type="verse">
+						Agus ruith fear, `sa lionadh spuing le fion-geur, s ga cur air cuilc thug e dha ri ol ag radh: Leigibh leam, faicemid an tig Elias gus a thoirt a nuas
+					</seg>
+					<seg id="b.MAR.15.37" type="verse">
+						Agus Iosa ag eigheach le guth ard, thug e suas an anail
+					</seg>
+					<seg id="b.MAR.15.38" type="verse">
+						Agus sthracadh brat an teampuill na dha leth bho bhraighe gu iochdar
+					</seg>
+					<seg id="b.MAR.15.39" type="verse">
+						Agus nuair a chunnaic an ceannard-ciad, a bha `na sheasamh mu choinneamh, gun do dh`eug e ag eigheach mar sin, thuirt e: Gu firinneach b`e an duine so Mac Dhe
+					</seg>
+					<seg id="b.MAR.15.40" type="verse">
+						Agus bha boirionnaich cuideachd a coimhead air na thachair ach fad as: nam measg bha Mairi Magdalen, agus Mairi mathair Sheumais is lugha is Ioseiph, agus Salome
+					</seg>
+					<seg id="b.MAR.15.41" type="verse">
+						A lean e nuair a bha e ann an Galile, `sa fhreasdail air, agus moran bhoirionnach eile, a bh` air direadh gu Ierusalem maille ris
+					</seg>
+					<seg id="b.MAR.15.42" type="verse">
+						`S nuair thainig am feasgar, a chionn gum be an t-uidheamachadh a bh` ann, se sin an latha romh `n t-sabaid
+					</seg>
+					<seg id="b.MAR.15.43" type="verse">
+						Thainig Ioseph bho Arimatea, comhairleach urramach, aig an robh suil e fhein ri rioghachd Dhe, is chaidh e stigh gu dana go Pilat, agus dh` iarr e corp Iosa
+					</seg>
+					<seg id="b.MAR.15.44" type="verse">
+						`S bha ioghnadh air Pilat gun robh e cheana marbh. `Sa gairm a cheannaird-chiad, dh` fharraid e dheth an robh e cheana marbh
+					</seg>
+					<seg id="b.MAR.15.45" type="verse">
+						`S nuair fhuair e fios bhon cheannard-chiad, thug e an corp do Ioseph
+					</seg>
+					<seg id="b.MAR.15.46" type="verse">
+						Agus cheannaich Ioseph lion-anart, `s ga thoirt a nuas, shuain e san lion-anart e, agus chuir e ann an uaigh e, a bh` air a gearradh as a chraig, agus charaich e clach gu dorus na h-uaighe
+					</seg>
+					<seg id="b.MAR.15.47" type="verse">
+						`S bha Mairi Magdalen agus Mairi mathair Ioseiph a gabhail beachd caite an do chuireadh e
+					</seg>
+				</div>
+				<div id="b.MAR.16" type="chapter">
+					<seg id="b.MAR.16.1" type="verse">
+						`S nuair a chaidh an t-sabaid seachad, cheannaich Mairi Magdalen, is Mairi mathair Sheumais, agus Salome, spiosradh, los gum falbhadh iad gus Iosa ungadh
+					</seg>
+					<seg id="b.MAR.16.2" type="verse">
+						Agus ro-mhoch sa mhaduinn air a chiad latha den t-seachduin, thainig iad thun na h-uaighe an deigh eirigh na greine
+					</seg>
+					<seg id="b.MAR.16.3" type="verse">
+						`S bha iad ag radh ri cheile: Co charaicheas a chlach dhuinn bho bhial na h-uaighe
+					</seg>
+					<seg id="b.MAR.16.4" type="verse">
+						`Sa toirt sula, chunnaic iad a chlach air a carachadh air falbh. Oir b` anabarrach mor i
+					</seg>
+					<seg id="b.MAR.16.5" type="verse">
+						`Sa dol a stigh dhan uaigh, chunnaic iad fear og na shuidhe air an taobh dheas, an eideadh geal, agus bha sgath orra
+					</seg>
+					<seg id="b.MAR.16.6" type="verse">
+						Is thuirt e riutha: Na biodh eagal oirbh: tha sibh a sireadh Iosa bho Nasareth a chaidh a cheusadh: dh` eirich e, chan eil e an so, seallaibh an t-aite far na chuir iad e
+					</seg>
+					<seg id="b.MAR.16.7" type="verse">
+						Ach falbhaibh, is innsibh dha dheisciopuil, agus do Pheadar, gu bheil e dol roimhibh do Ghalile: chi sibh an sin e, mar thuirt e ribh
+					</seg>
+					<seg id="b.MAR.16.8" type="verse">
+						`Sa gabhail a mach, theich iadsan bhon uaigh: oir ghlac eagal is uamhas iad; `s cha tuirt iad ni ri duine sam bith: oir bha sgath orra
+					</seg>
+					<seg id="b.MAR.16.9" type="verse">
+						Ach esan ag eirigh moch sa mhaduinn air a chiad latha den t-seachduin, chunnacas an toiseach e le Mairi Magdalen, as na chuir e seachd deomhain
+					</seg>
+					<seg id="b.MAR.16.10" type="verse">
+						Dh` fhalbh ise, agus dh` innis i dhaibhsan a bha air a bhith comhla ris, `s iad a gal sa caoidh
+					</seg>
+					<seg id="b.MAR.16.11" type="verse">
+						Is iadsan a cluinntinn gun robh e beo, `s gum facas e leatha, cha do chreid iad
+					</seg>
+					<seg id="b.MAR.16.12" type="verse">
+						`S an deigh sin dh` fhiach e e fhein an riochd eile do dhithis dhiu, a bha coiseachd a mach don duthaich
+					</seg>
+					<seg id="b.MAR.16.13" type="verse">
+						Agus dh` fhalbh iadsan, is dh` innis iad do chach: `S cha mhua chreid iadsan iad
+					</seg>
+					<seg id="b.MAR.16.14" type="verse">
+						Mu dheireadh chunnacas e leis na h-aon-diag, nuair a bha iad aig bord; agus chronaich e iad air son am mi-chreidimh agus cruas an cridhe: a thaobh nach do chreid iad an fheadhainn a chunnaic e an deigh aiseirigh
+					</seg>
+					<seg id="b.MAR.16.15" type="verse">
+						Is thuirt e riutha: Falbhaibh feadh an t-saoghail gu leir, agus searmonaichibh an soisgeul dhan h-uile creutair
+					</seg>
+					<seg id="b.MAR.16.16" type="verse">
+						Esan a chreideas `sa bhaistear, sabhailear e: ach esan nach creid, theid a dhiteadh
+					</seg>
+					<seg id="b.MAR.16.17" type="verse">
+						Agus leanaidh na comharran so iadsan a chreideas: Nam ainmse tilgidh iad a mach deomhain: labhraidh iad le teangannan ura
+					</seg>
+					<seg id="b.MAR.16.18" type="verse">
+						Is togaidh iad nathraichean; agus ma dh` olas iad ni marbhtach sam bith, cha dean e cron orra; cuiridh iad an lamhan air daoine tinn, agus bithidh iad gu math
+					</seg>
+					<seg id="b.MAR.16.19" type="verse">
+						Agus an deigh don Tighearna Iosa labhairt riutha, thogadh suas e gu neamh, agus tha e `na shuidhe air laimh dheis Dhe
+					</seg>
+					<seg id="b.MAR.16.20" type="verse">
+						Agus chaidh iadsan a mach, agus shearmonaich iad anns gach aite, an Tighearna a co-oibreachadh leo, `sa daingneachadh an fhacail leis na comharran a lean. Amen
+					</seg>
+				</div>
+			</div>
+		</body>
+	</text>
+</cesDoc>
