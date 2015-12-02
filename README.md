@@ -18,3 +18,5 @@ Christos Christodoulopoulos and Mark Steedman, *Language Resources and Evaluatio
 at the Goethe Universität, has created tokenised versions of four languages 
 (Chinese, Japanese, Thai, Vietnamese). They are included in this collection but they can also be found 
 [here](https://www.hucompute.org/ressourcen/corpora).
+
+Follow this link for [a collection of tools for reading/processing the corpus](https://github.com/christos-c/bible-corpus-tools).
