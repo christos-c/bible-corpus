@@ -1,3 +1,6 @@
+v1.9 (Dec 2016)
+	Added full Amharic translation (replaced the Amharic-NT file). Thanks to Shudong Hao for pointing me to https://bible.org/foreign/amharic/.
+	
 v1.8 (Dec 2015)
 	Fixed minor XML-related bugs in Vietnamese and Thai
 	
