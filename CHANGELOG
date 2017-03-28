@@ -1,3 +1,6 @@
+v1.11 (Mar 2017)
+	Fixed XML errors in Amharic translation. Thanks to https://github.com/rasoolims for catching that error.
+
 v1.10 (Feb 2017)
 	Added full Shona translation. Thanks to https://github.com/sdini1 for providing the translation
 	
