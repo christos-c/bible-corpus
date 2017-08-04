@@ -19,4 +19,12 @@ at the Goethe Universität, has created tokenised versions of four languages
 (Chinese, Japanese, Thai, Vietnamese). They are included in this collection but they can also be found 
 [here](https://www.hucompute.org/ressourcen/corpora).
 
-Follow this link for [a collection of tools for reading/processing the corpus](https://github.com/christos-c/bible-corpus-tools).
+Follow this link for [a collection of tools for reading/processing the corpus](https://github.com/christos-c/bible-corpus-tools). If you are looking for a quick way to generating a raw text version of each Bible, you can use following Python snippet (replace `lang` with the name of the XML file):
+```
+import xml.etree.ElementTree as ET
+lang = 'English'
+root = ET.fromstring(open(lang + '.xml').read())
+with open(lang + '.txt', 'w', encoding='utf-8') as out:
+    for n in root.iter('seg'):
+        out.write(n.text.strip() + '\n')
+```
