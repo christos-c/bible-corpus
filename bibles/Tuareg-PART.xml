@@ -53,7 +53,8 @@
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>
-				<language id="th" iso639="tmh">
+				<!-- Using 3-letter code for Tamashek because Tuareg lacks an ISO_639-1 2-letter code, and th clashes with Thai -->
+				<language id="tmh" iso639="tmh">
 					Tuareg
 				</language>
 			</langUsage>
@@ -63,7 +64,7 @@
 		</profileDesc>
 	</cesHeader>
 	<text>
-		<body id="Bible" lang="th">
+		<body id="Bible" lang="tmh">
 			<div id="b.GEN" type="book">
 				<div id="b.GEN.1" type="chapter">
 					<seg id="b.GEN.1.2" type="verse">

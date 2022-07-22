@@ -30,7 +30,8 @@
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>
-				<language iso639='quc' id='qu'>K'iche'</language>
+				<!-- Using 'quc' as main id instead of 'qc' which clashes with Quechua. -->
+				<language iso639='quc' id='quc'>K'iche'</language>
 			</langUsage>
 			<wsdUsage>
 				<writingSystem id='utf-8'></writingSystem>
@@ -38,7 +39,7 @@
 		</profileDesc>
 	</cesHeader>
 	<text>
-		<body id='Bible' lang='qu'>
+		<body id='Bible' lang='quc'>
 			<div id='MAT' type='book'>
 				<div id='MAT.1' type='chapter'>
 					<seg id='MAT.1.1' type='verse'>Wuj rech ri umajibʼal uloq ri Jesus Kristo, ukʼojol ri David, ukʼojol ri Abʼraham.</seg>

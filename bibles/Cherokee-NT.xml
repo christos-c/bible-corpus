@@ -53,7 +53,8 @@
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>
-				<language id="ch" iso639="chr">
+				<!-- ISO 639-3 code "car" avoids clash with "ch" for Chamorro. -->
+				<language id="chr" iso639="chr">
 					Cherokee
 				</language>
 			</langUsage>
@@ -63,7 +64,7 @@
 		</profileDesc>
 	</cesHeader>
 	<text>
-		<body id="Bible" lang="ch">
+		<body id="Bible" lang="chr">
 			<div id="b.MAT" type="book">
 				<div id="b.MAT.1" type="chapter">
 					<seg id="b.MAT.1.1" type="verse">

@@ -53,7 +53,8 @@
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>
-				<language id="kb" iso639="kbh">
+				<!-- ISO 639-3 code "kbh" avoids clash with "kb" for Kabyle. -->
+				<language id="kbh" iso639="kbh">
 					Camsa
 				</language>
 			</langUsage>
@@ -63,7 +64,7 @@
 		</profileDesc>
 	</cesHeader>
 	<text>
-		<body id="Bible" lang="kb">
+		<body id="Bible" lang="kbh">
 			<div id="b.MAT" type="book">
 				<div id="b.MAT.1" type="chapter">
 					<seg id="b.MAT.1.1" type="verse">
