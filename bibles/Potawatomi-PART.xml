@@ -53,7 +53,8 @@
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>
-				<language id="pt" iso639="pot">
+				<!-- ISO 639-3 code "pot" avoids clash with "pt" for Portuguese. -->
+				<language id="pot" iso639="pot">
 					Potawatomi
 				</language>
 			</langUsage>
@@ -63,7 +64,7 @@
 		</profileDesc>
 	</cesHeader>
 	<text>
-		<body id="Bible" lang="pt">
+		<body id="Bible" lang="pot">
 			<div id="b.MAT" type="book">
 				<div id="b.MAT.1" type="chapter">
 					<seg id="b.MAT.1.1" type="verse">
