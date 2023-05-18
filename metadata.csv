@@ -1,0 +1,109 @@
+Filename,ISO_639-3,Language,Family,Genus,Subgenus,Speakers,Script,Full,Parts,Year
+Achuar-NT.xml,acu,Achuar-Shiwiar,Jivaroan,,,"5,000",Latin,False,NT,1981
+Afrikaans.xml,afr,Afrikaans,Indo-European,Germanic,West,"5,000,000",Latin,True,,1953
+Aguaruna-NT.xml,agr,Aguaruna,Jivaroan,,,"38,300",Latin,False,NT,1973
+Akawaio-NT.xml,ake,Akawaio,Carib,Northern,East-West Guiana,"4,500",Latin,False,NT,2010
+Albanian.xml,als,Albanian,Indo-European,Albanian,Tosk,"3,000,000",Latin,True,,1993
+Amharic.xml,amh,Amharic,Afro-Asiatic,Semitic,South,"17,500,000",Ethiopic,False,NT,1840
+Amuzgo-NT.xml,amu,Amuzgo,Oto-Manguean,Amuzgoan,,"23,000",Latin,False,NT,1973
+Arabic.xml,arb,Arabic,Afro-Asiatic,Semitic,Central,"206,000,000",Arabic,True,,1865
+Armenian-PART.xml,hye,Armenian,Indo-European,Armenian,,"64,00,000",Armenian,False,Parts,1883
+Aukan-NT.xml,djk,Aukan,Creole,English based,Atlantic,"15,500",Latin,False,NT,1999
+Barasana-NT.xml,bsn,Barasana-Eduria,Tucanoan,Eastern Tucanoan,Central,"1,890",Latin,False,NT,2001
+Basque-NT.xml,eus,Basque,Basque,,,"700,000",Latin,False,NT,1855
+Bulgarian.xml,bul,Bulgarian,Indo-European,Slavic,South,"9,000,000",Cyrillic,True,,1864
+Cabecar-NT.xml,cjp,Cabécar,Chibchan,Talamanca,,"8,840",Latin,False,NT,1993
+Cakchiquel-NT.xml,cak,Cakchiquel,Mayan,Quichean,Greater Quichean,"132,000",Latin,False,NT,1931
+Campa-NT.xml,cni,Campa (Asháninka),Arawakan,Maipuran,Southern Maipuran,"26,100",Latin,False,NT,1972
+Camsa-NT.xml,kbh,Camsá,Equatorial (?),,,"4,770",Latin,False,NT,1990
+Cebuano.xml,ceb,Cebuano,Austronesian,Malayo-Polynesian,Phillipine,"15,800,000",Latin,True,,1917
+Chamorro-PART.xml,cha,Chamorro,Austronesian,Malayo-Polynesian,Chamorro,"92,000",Latin,False,Parts,2007
+Cherokee-NT.xml,chr,Cherokee,Iroquoian,Southern Iroquoian,,"16,400",Cherokee,False,NT,1850
+Chinantec-NT.xml,chq,Chinantec (Quiotepec),Oto-Manguean,Chinantecan,,"8,000",Latin,False,NT,1983
+Chinese-tok.xml,cmn,Chinese,Sino-Tibetan,Sinitic,Chinese,"840,000,000",Chinese,True,,1874
+Chinese.xml,cmn,Chinese,Sino-Tibetan,Sinitic,Chinese,"840,000,000",Chinese,True,,1874
+Coptic-NT.xml,cop,Coptic,Afro-Asiatic,Egyptian,,Extinct,Coptic,False,NT,1716
+Creole.xml,hat,Haitian Creole,Creole,,,"7,700,000",Latin,True,,1985
+Croatian.xml,hrv,Croatian,Indo-European,Slavic,South,"5,500,000",Latin,True,,1831
+Czech.xml,ces,Czech,Indo-European,Slavic,West,"9,500,000",Latin,True,,1380
+Danish.xml,dan,Danish,Indo-European,Germanic,North,"5,500,000",Latin,True,,1550
+Dinka-NT.xml,dik,Dinka,Nilo-Saharan,Eastern Sudanic,Nilotic,"450,000",Latin,False,NT,2006
+Dutch.xml,nld,Dutch,Indo-European,Germanic,West,"25,000,000",Latin,,,
+English-WEB.xml,eng,English,Indo-European,Germanic,West,"328,000,000",Latin,True,,1611
+English.xml,eng,English,Indo-European,Germanic,West,"328,000,000",Latin,True,,1611
+Esperanto.xml,epo,Esperanto,Constructed,,,"1,000",Latin,True,,1900
+Estonian-PART.xml,est,Estonian,Uralic,Finno-Ugric,Finno-Permic,"1,000,000",Latin,True,,1739
+Ewe-NT.xml,ewe,Ewe,Niger-Congo,Atlantic-Congo,Volta-Congo,"2,250,000",Latin,False,NT,1911
+Farsi.xml,pes,Farsi (Persian),Indo-European,Indo-Iranian,Iranian,"22,000,000",Arabic,True,,1838
+Finnish.xml,fin,Finnish,Uralic,Finno-Ugric,Finno-Permic,"5,000,000",Latin,True,,1776
+French.xml,fra,French,Indo-European,Italic,Romance,"58,000,000",Latin,True,,1776
+Gaelic-PART.xml,gla,Gaelic (Scottish),Indo-European,Celtic,Insular,"67,000",Latin,False,Parts,1801
+Galela-NT.xml,gbi,Galela,West Papuan,North Halmahera,Galela-Loloda,"79,000",Latin,False,NT,2002
+German.xml,deu,German,Indo-European,Germanic,West,"90,300,000",Latin,True,,1545
+Greek.xml,ell,Greek,Indo-European,Greek,Attic,"13,000,000",Greek,True,,1840
+Gujarati-NT.xml,guj,Gujarati,Indo-European,Indo-Iranian,Indo-Aryan,"45,500,000",Gujarati,False,NT,1823
+Hebrew.xml,heb,Hebrew,Afro-Asiatic,Semitic,Central,"5,300,000",Hebrew,True,,1599
+Hindi.xml,hin,Hindi,Indo-European,Indo-Iranian,Indo-Aryan,"180,000,000",Devanagari,True,,1818
+Hungarian.xml,hun,Hungarian,Uralic,Finno-Ugric,Ugric,"12,500,000",Latin,True,,1590
+Icelandic.xml,isl,Icelandic,Indo-European,Germanic,North,"230,000",Ethiopic,True,,1863
+Indonesian.xml,ind,Indonesian,Austronesian,Malayo-Polynesian,Malayo-Sumbawan,"23,100,000",Latin,True,,1974
+Italian.xml,ita,Italian,Indo-European,Italic,Romance,"61,700,000",Latin,True,,1649
+Jakalteko-NT.xml,jai,Jakalteko,Mayan,Kanjobalan-Chujean,Kanjobalan,"77,700",Latin,False,NT,1979
+Japanese-tok.xml,jpn,Japanese,Japonic,,,"122,000,000",Kanjii,True,,1883
+Japanese.xml,jpn,Japanese,Japonic,,,"122,000,000",Kanjii,True,,1883
+K'iche'-NT-SIL.xml,quc,K’iche’,Mayan,Quichean-Mamean,Greater Quichean,"1,900,000",Latin,False,NT,1995
+K'iche'-NT.xml,quc,K’iche’,Mayan,Quichean-Mamean,Greater Quichean,"1,900,000",Latin,False,NT,1995
+Kabyle-NT.xml,kab,Kabyle,Afro-Asiatic,Berber,Northern,"3,100,000",Latin,False,NT,2011
+Kannada.xml,kan,Kannada,Dravidian,Southern,Tamil-Kannada,"35,300,000",Kannada,True,,1831
+Korean.xml,kor,Korean,Altaic(?),,,"66,300,000",Hangul,True,,1911
+Latin.xml,lat,Latin,Indo-European,Italic,Latino-Faliscan,Extinct,Latin,True,,400
+Latvian-NT.xml,lav,Latvian,Indo-European,Baltic,Eastern,"1,500,000",Latin,False,NT,1689
+Lithuanian.xml,lit,Lithuanian,Indo-European,Baltic,Eastern,"3,100,000",Latin,True,,1735
+Lukpa-NT.xml,dop,Lukpa,Niger-Congo,Atlantic-Congo,Volta-Congo,"50,000",Latin,False,NT,2009
+Malagasy.xml,plt,Malagasy,Austronesian,Malayo-Polynesian,Greater Barito,"7,520,000",Latin,True,,1835
+Malayalam.xml,mal,Malayalam,Dravidian,Southern,Tamil-Kannada,"35,400,000",Malayalam,True,,1841
+Mam-NT.xml,mam,Mam,Mayan,Quichean-Mamean,Greater Mamean,"200,000",Latin,False,NT,1993
+Manx-PART.xml,glv,Manx,Indo-European,Celtic,Insular,"77,000",Latin,False,Parts,1773
+Maori.xml,mri,Maori,Austronesian,Malayo-Polynesian,Central-Eastern,"60,000",Latin,True,,1858
+Marathi.xml,mar,Marathi,Indo-European,Indo-Iranian,Indo-Aryan,"68,000,000",Devanagari,True,,1821
+Myanmar.xml,mya,Myanmar (Burmese),Sino-Tibetan,Tibeto-Burman,Lolo-Burmese,"32,300,000",Myanmar,True,,1835
+Nahuatl-NT.xml,nhg,Nahuatl (Tetelcingo),Uto-Aztecan,Southern Uto-Aztecan,Aztecan,"3,500",Latin,False,NT,1980
+Nepali.xml,nep,Nepali,Indo-European,Indo-Iranian,Indo-Aryan,"11,100,000",Devanagari,True,,1914
+Norwegian.xml,nor,Norwegian,Indo-European,Germanic,North,"4,600,000",Latin,True,,1904
+Ojibwa-NT.xml,ojb,Ojibwa,Algic,Algonquian,Central,"20,000",Aboriginal Syllabics,False,NT,1988
+Paite.xml,pck,Paite (Chin),Sino-Tibetan,Tibeto-Burman,Kuki-Chin-Naga,"78,800",Latin,True,,1971
+Polish.xml,pol,Polish,Indo-European,Slavic,West,"36,600,000",Latin,True,,1975
+Portuguese.xml,por,Portuguese,Indo-European,Italic,Romance,"178,000,000",Latin,True,,1751
+Potawatomi-PART.xml,pot,Potawatomi,Algic,Algonquian,Central,"1,300,000",Latin,False,Parts,1844
+Q'eqchi'.xml,kek,Q’eqchi’,Mayan,Quichean-Mamean,Greater Quichean,"400,000",Latin,True,,1988
+Quichua-NT.xml,quw,Quichua,Quechuan,Quechua II,B,"20,000",Latin,False,NT,1972
+Romani-NT.xml,rmn,Romani,Indo-European,Sna,Indo-Aryan,"710,000",Latin,False,NT,2008
+Romanian.xml,ron,Romanian,Indo-European,Italic,Romance,"23,400,000",Latin,True,,1928
+Russian.xml,rus,Russian,Indo-European,Slavic,East,"143,000,000",Cyrillic,True,,1876
+Serbian.xml,srp,Serbian,Indo-European,Slavic,South,"7,000,000",Latin,True,,1804
+Shona.xml,sna,Shona,Niger-Congo,Bantu,Southern Bantu,"6,500,000",Latin,,,
+Shuar-NT.xml,jiv,Shuar (Jivaro),Jivaroan,,,"46,700",Latin,False,NT,2010
+Slovak.xml,slk,Slovak,Indo-European,Slavic,West,"4,610,000",Latin,True,,1832
+Slovene.xml,slv,Slovene,Indo-European,Slavic,South,"1,730,000",Latin,True,,1584
+Somali.xml,som,Somali,Afro-Asiatic,Cushitic,East,"8,340,000",Latin,True,,1979
+Spanish.xml,spa,Spanish,Indo-European,Italic,Romance,"328,000,000",Latin,True,,1569
+Swahili-NT.xml,swh,Swahili,Niger-Congo,Atlantic-Congo,Volta-Congo,"788,000",Latin,False,NT,1891
+Swedish.xml,swe,Swedish,Indo-European,Germanic,North,"8,300,000",Latin,True,,1917
+Syriac-NT.xml,arc,Syriac,Afro-Asiatic,Semitic,Central,Extinct,Syriac,False,NT,464
+Tachelhit-NT.xml,shi,Tachelhit,Afro-Asiatic,Berber,Northern,"3,000,000",Arabic,False,NT,2010
+Tagalog.xml,tgl,Tagalog,Austronesian,Malayo-Polynesian,Phillipine,"23,900,000",Latin,True,,1905
+Telugu.xml,tel,Telugu,Dravidian,South-Central,Telugu,"69,600,000",Telugu,True,,1854
+Thai-tok.xml,tha,Thai,Tai-Kadai,Kam-Tai,Be-Tai,"20,300,000",Thai,True,,1883
+Thai.xml,tha,Thai,Tai-Kadai,Kam-Tai,Be-Tai,"20,300,000",Thai,True,,1883
+Tuareg-PART.xml,ttq,Tamajaq (Tuareg),Afro-Asiatic,Berber,Tamasheq,"640,000",Latin,False,Parts,1979
+Turkish.xml,tur,Turkish,Altaic,Turkic,Southern,"50,000,000",Latin,True,,1827
+Ukranian-NT.xml,ukr,Ukranian,Indo-European,Slavic,East,"37,000,000",Cyrillic,False,NT,1903
+Uma-NT.xml,ppk,Uma,Austronesian,Malayo-Polynesian,Celebic,"20,000",Latin,False,NT,1996
+Uspanteco-NT.xml,usp,Uspanteco,Mayan,Quichean-Mamean,Greater Quichean,"3,000",Latin,False,NT,1999
+Vietnamese-tok.xml,vie,Vietnamese,Austro-Asiatic,Mon-Khmer,Viet-Muong,"68,600,000",Latin,True,,1934
+Vietnamese.xml,vie,Vietnamese,Austro-Asiatic,Mon-Khmer,Viet-Muong,"68,600,000",Latin,True,,1934
+Wolaytta-NT.xml,wal,Wolaytta,Afro-Asiatic,Omotic,North,"1,230,000",Ethiopic,False,NT,1981
+Wolof-NT.xml,wol,Wolof,Niger-Congo,Atlantic-Congo,Atlantic,"4,000,000",Latin,False,NT,1988
+Xhosa.xml,xho,Xhosa,Niger-Congo,Atlantic-Congo,Volta-Congo,"7,800,000",Latin,True,,1859
+Zarma.xml,dje,Zarma,Nilo-Saharan,Songhai,Southern,"2,350,000",Latin,True,,1990
+Zulu-NT.xml,zul,Zulu,Niger-Congo,Atlantic-Congo,Volta-Congo,"9,980,000",Latin,False,NT,1883
