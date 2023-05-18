@@ -28,7 +28,7 @@ Croatian.xml,hrv,Croatian,Indo-European,Slavic,South,"5,500,000",Latin,True,,183
 Czech.xml,ces,Czech,Indo-European,Slavic,West,"9,500,000",Latin,True,,1380
 Danish.xml,dan,Danish,Indo-European,Germanic,North,"5,500,000",Latin,True,,1550
 Dinka-NT.xml,dik,Dinka,Nilo-Saharan,Eastern Sudanic,Nilotic,"450,000",Latin,False,NT,2006
-Dutch.xml,nld,Dutch,Indo-European,Germanic,West,,Latin,,,
+Dutch.xml,nld,Dutch,Indo-European,Germanic,West,"25,000,000",Latin,,,
 English-WEB.xml,eng,English,Indo-European,Germanic,West,"328,000,000",Latin,True,,1611
 English.xml,eng,English,Indo-European,Germanic,West,"328,000,000",Latin,True,,1611
 Esperanto.xml,epo,Esperanto,Constructed,,,"1,000",Latin,True,,1900
@@ -81,7 +81,7 @@ Romani-NT.xml,rmn,Romani,Indo-European,Sna,Indo-Aryan,"710,000",Latin,False,NT,2
 Romanian.xml,ron,Romanian,Indo-European,Italic,Romance,"23,400,000",Latin,True,,1928
 Russian.xml,rus,Russian,Indo-European,Slavic,East,"143,000,000",Cyrillic,True,,1876
 Serbian.xml,srp,Serbian,Indo-European,Slavic,South,"7,000,000",Latin,True,,1804
-Shona.xml,sna,Shona,,,,,,,,
+Shona.xml,sna,Shona,Niger-Congo,Bantu,Southern Bantu,"6,500,000",Latin,,,
 Shuar-NT.xml,jiv,Shuar (Jivaro),Jivaroan,,,"46,700",Latin,False,NT,2010
 Slovak.xml,slk,Slovak,Indo-European,Slavic,West,"4,610,000",Latin,True,,1832
 Slovene.xml,slv,Slovene,Indo-European,Slavic,South,"1,730,000",Latin,True,,1584
