@@ -39,6 +39,11 @@
 		<encodingDesc>
 			<projectDesc>
 				This is a part of multi-lingual corpus of the bible.
+				
+				Note: There are several missing verse IDs in this text
+				(e.g. JOH.4.1 through JOH.4.3), reflecting the merged verses 
+				in the source document. This means there are non-consecutive
+				verse IDs when these merges occur (e.g. JOH.4.1 is followed by JOH.4.4).
 			</projectDesc>
 			<editorialDesc>
 				<conformance level="1">
