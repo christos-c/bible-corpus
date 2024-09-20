@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<h.title>
-					Bible(JAK)
+					Bible(JAC)
 				</h.title>
 				<respStmt>
 					<respType>
@@ -53,7 +53,7 @@
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>
-				<language id="jk" iso639="jak">
+				<language id="jk" iso639="jac">
 					Jakalteko
 				</language>
 			</langUsage>

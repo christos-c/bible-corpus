@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<h.title>
-					Bible(QUW)
+					Bible(QUE)
 				</h.title>
 				<respStmt>
 					<respType>
@@ -53,7 +53,7 @@
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>
-				<language id="qu" iso639="quw">
+				<language id="qu" iso639="que">
 					Quichua
 				</language>
 			</langUsage>
