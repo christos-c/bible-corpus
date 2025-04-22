@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<h.title>
-					Bible(OJB)
+					Bible(OJI)
 				</h.title>
 				<respStmt>
 					<respType>
@@ -53,7 +53,7 @@
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>
-				<language id="oj" iso639="ojb">
+				<language id="oj" iso639="oji">
 					Ojibwa
 				</language>
 			</langUsage>
