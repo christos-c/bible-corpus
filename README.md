@@ -1,4 +1,6 @@
 # bible-corpus
+**May 2025 UPDATE**: The corpus is now hosted in the [TextGrid Repository (TGR)](https://textgridrep.org/project/TGPR-d862e14d-4df7-052b-00fe-661cb242231c#README) with a lot of enhancements in encoding and additional metadata.
+
 A multilingual parallel corpus created from translations of the Bible.
 
 Here you can find a multilingual parallel corpus created from translations of the Bible.
